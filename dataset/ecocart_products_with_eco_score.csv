@@ -1,0 +1,501 @@
+product_id,product_name,brand,category,material,weight_g,packaging,recyclable,reusable,durability_years,certification,price_inr,rating,review_count,material_score,packaging_score,recyclability_score,reusability_score,durability_score,certification_score,eco_score
+P0001,Wireless Earbuds,Voltix,Electronics,Plastic + Electronics,531,Cardboard,Yes,Yes,7.0,B Corp,2446.39,3.8,493,25,75,100,100,46.666666666666664,85,66.92
+P0002,Smartwatch,TechNest,Electronics,Aluminum + Electronics,1064,Cardboard,Yes,No,7.0,None,5743.88,4.2,13266,40,75,100,30,46.666666666666664,40,56.42
+P0003,Linen Shirt,UrbanLeaf,Clothing,Linen,428,Recycled Cardboard,Yes,No,3.0,None,2022.65,3.7,5640,85,90,100,30,20.0,40,69.5
+P0004,Organic Green Tea,GreenGrain,Grocery,Tea Leaves,1198,Paper,No,Yes,2.0,None,960.53,4.8,5930,80,85,30,100,13.333333333333334,40,63.08
+P0005,Glass Face Serum Bottle,PureGlow,Beauty,Glass,358,Cardboard,No,No,7.0,None,323.42,3.6,10420,80,75,30,30,46.666666666666664,40,54.42
+P0006,Recycled Plastic Chair,UrbanWood,Furniture,Recycled Plastic,12141,Recycled Cardboard,Yes,No,15.0,FSC,24755.11,3.3,11951,60,90,100,30,100.0,95,75.5
+P0007,Plastic Shampoo Bottle,GlowLeaf,Beauty,Plastic,214,Cardboard,No,Yes,5.0,None,863.76,4.5,921,30,75,30,100,33.33333333333333,40,48.58
+P0008,Bamboo Hair Brush,HerbalNest,Beauty,Bamboo,225,Recycled Cardboard,Yes,No,5.0,Energy Star,840.52,4.3,6487,95,90,100,30,33.33333333333333,90,78.83
+P0009,Reusable Safety Razor,NatureTouch,Personal Care,Metal,162,Cardboard,No,Yes,6.0,None,1800.78,3.8,3598,60,75,30,100,40.0,40,58.25
+P0010,Bamboo Spoon Set,TerraHome,Kitchen,Bamboo,226,Paper,No,Yes,2.0,Fair Trade,2167.58,3.1,6257,95,85,30,100,13.333333333333334,90,72.58
+P0011,Natural Loofah,NatureTouch,Personal Care,Plant Fiber,586,Paper,Yes,Yes,5.0,OEKO-TEX,1550.08,3.7,4813,90,85,100,100,33.33333333333333,85,86.58
+P0012,Recycled Polyester Backpack,UrbanCarry,Bags,Recycled Polyester,86,Minimal Packaging,No,Yes,5.0,Fair Trade,3143.55,3.2,10249,70,95,30,100,33.33333333333333,90,68.58
+P0013,Organic Honey,DailyHarvest,Grocery,Honey,507,Glass,Yes,Yes,2.0,B Corp,917.47,4.0,1837,80,70,100,100,13.333333333333334,85,79.33
+P0014,MDF Coffee Table,EcoHome,Furniture,MDF,2398,Cardboard,No,No,5.0,OEKO-TEX,32823.91,5.0,8732,50,75,30,30,33.33333333333333,85,48.58
+P0015,Bamboo Cutting Board,TerraHome,Kitchen,Bamboo,1165,Paper,Yes,No,4.0,B Corp,4650.68,4.5,11307,95,85,100,30,26.666666666666668,85,76.92
+P0016,Bamboo Cotton Buds,GlowLeaf,Beauty,Bamboo + Cotton,363,Recycled Cardboard,Yes,Yes,1.0,None,233.94,3.0,9080,85,90,100,100,6.666666666666667,40,78.67
+P0017,Wooden Comb,NatureCare,Beauty,Wood,23,Cardboard,Yes,Yes,1.0,B Corp,2159.32,3.1,3904,80,75,100,100,6.666666666666667,85,79.42
+P0018,Dried Mango,PureHarvest,Grocery,Fruit,1204,Paper,No,No,2.0,GOTS,1186.7,4.6,3124,85,85,30,30,13.333333333333334,95,59.58
+P0019,Bluetooth Speaker,SmartCore,Electronics,Plastic + Electronics,755,Recycled Cardboard,Yes,No,2.0,Energy Star,24607.88,3.2,6601,25,90,100,30,13.333333333333334,90,55.83
+P0020,Wooden Office Chair,EcoHome,Furniture,Wood,6778,Cardboard,Yes,Yes,7.0,None,10741.45,4.8,7265,80,75,100,100,46.666666666666664,40,78.92
+P0021,Wireless Earbuds,Electra,Electronics,Plastic + Electronics,60,Cardboard,No,No,3.0,None,12188.55,4.7,14790,25,75,30,30,20.0,40,35.25
+P0022,Linen Shirt,UrbanLeaf,Clothing,Linen,82,Recycled Cardboard,Yes,No,4.0,FSC,3542.64,4.5,12839,85,90,100,30,26.666666666666668,95,75.67
+P0023,Reusable Safety Razor,EcoLife,Personal Care,Metal,323,Cardboard,No,Yes,5.0,None,667.39,3.1,7816,60,75,30,100,33.33333333333333,40,57.58
+P0024,Stainless Steel Water Bottle,DailyKitchen,Kitchen,Stainless Steel,204,Cardboard,Yes,Yes,10.0,None,686.44,4.8,4038,80,75,100,100,66.66666666666666,40,80.92
+P0025,Viscose Dress,GreenWear,Clothing,Viscose,509,Plastic,Yes,Yes,3.0,None,3636.72,3.5,6489,55,30,100,100,20.0,40,62.0
+P0026,Ceramic Coffee Mug,TerraHome,Kitchen,Ceramic,687,Cardboard,Yes,Yes,5.0,B Corp,457.98,3.4,4350,75,75,100,100,33.33333333333333,85,80.58
+P0027,Cast Iron Pan,HomePure,Kitchen,Cast Iron,540,Minimal Packaging,Yes,Yes,5.0,OEKO-TEX,3096.22,5.0,10719,80,95,100,100,33.33333333333333,85,85.08
+P0028,Recycled Polyester Jacket,EcoThreads,Clothing,Recycled Polyester,759,Recycled Cardboard,No,Yes,1.0,USDA Organic,3762.6,3.3,4621,70,90,30,100,6.666666666666667,95,65.67
+P0029,Metal Nail Care Set,NatureCare,Beauty,Stainless Steel,371,Paper,No,Yes,3.0,B Corp,2126.57,3.2,6944,80,85,30,100,20.0,85,68.25
+P0030,Organic Green Tea,NatureBasket,Grocery,Tea Leaves,783,Paper,Yes,Yes,1.5,Fair Trade,669.15,3.0,1237,80,85,100,100,10.0,90,81.75
+P0031,Bamboo Spoon Set,HomePure,Kitchen,Bamboo,796,Minimal Packaging,Yes,Yes,1.0,FSC,4504.01,4.6,14106,95,95,100,100,6.666666666666667,95,87.92
+P0032,Polyester Sports T-Shirt,EarthStyle,Clothing,Polyester,778,Plastic,Yes,Yes,5.0,USDA Organic,2149.61,4.2,2537,40,30,100,100,33.33333333333333,95,64.33
+P0033,Plastic Shampoo Bottle,NatureCare,Beauty,Plastic,471,Cardboard,Yes,No,3.0,Fair Trade,1075.35,4.3,12048,30,75,100,30,20.0,90,55.75
+P0034,Bamboo Cotton Buds,NatureCare,Beauty,Bamboo + Cotton,423,Paper,Yes,Yes,4.0,None,2055.14,3.9,5005,85,85,100,100,26.666666666666668,40,79.92
+P0035,Reusable Makeup Pads,PureGlow,Beauty,Organic Cotton,357,Paper,Yes,Yes,1.0,B Corp,754.48,4.3,6553,90,85,100,100,6.666666666666667,85,83.92
+P0036,Bamboo Study Table,WoodNest,Furniture,Bamboo,9059,Paper,Yes,No,5.0,None,17946.99,4.5,5144,95,85,100,30,33.33333333333333,40,73.08
+P0037,Recycled Cotton Sling Bag,NatureTote,Bags,Recycled Cotton,316,Recycled Cardboard,No,Yes,1.0,OEKO-TEX,208.81,4.9,8826,90,90,30,100,6.666666666666667,85,70.67
+P0038,Metal Nail Care Set,GlowLeaf,Beauty,Stainless Steel,55,Paper,No,Yes,6.0,Energy Star,1820.81,3.6,5072,80,85,30,100,40.0,90,70.75
+P0039,Hemp Backpack,UrbanCarry,Bags,Hemp,685,Minimal Packaging,Yes,Yes,4.0,OEKO-TEX,5435.27,4.2,4935,95,95,100,100,26.666666666666668,85,88.92
+P0040,Paper Gift Bag,EarthCarry,Bags,Paper,702,Cardboard,Yes,No,5.0,GOTS,2895.93,3.9,3506,75,75,100,30,33.33333333333333,95,71.08
+P0041,Reusable Safety Razor,PureCare,Personal Care,Metal,310,Recycled Cardboard,Yes,Yes,1.0,Fair Trade,1516.21,4.3,3685,60,90,100,100,6.666666666666667,90,76.17
+P0042,Plastic Shampoo Bottle,PureGlow,Beauty,Plastic,43,Plastic,No,Yes,7.0,None,1081.95,4.3,3190,30,30,30,100,46.666666666666664,40,43.17
+P0043,Bamboo Handle Bag,UrbanCarry,Bags,Bamboo + Cotton,579,Paper,Yes,Yes,10.0,Energy Star,5334.7,4.6,3590,85,85,100,100,66.66666666666666,90,88.92
+P0044,Bamboo Spoon Set,TerraHome,Kitchen,Bamboo,142,Minimal Packaging,Yes,No,4.0,None,2375.75,4.1,9162,95,95,100,30,26.666666666666668,40,73.92
+P0045,Rattan Chair,HomeCraft,Furniture,Rattan,24069,Minimal Packaging,Yes,No,10.0,USDA Organic,30001.56,3.9,4251,85,95,100,30,66.66666666666666,95,80.42
+P0046,Bamboo Cotton Buds,EcoBeauty,Beauty,Bamboo + Cotton,268,Paper,Yes,Yes,3.0,None,891.75,4.8,1325,85,85,100,100,20.0,40,79.25
+P0047,Bamboo Cutting Board,GreenKitchen,Kitchen,Bamboo,824,Minimal Packaging,Yes,Yes,4.0,FSC,2757.79,3.8,3393,95,95,100,100,26.666666666666668,95,89.92
+P0048,Nylon Travel Bag,NatureTote,Bags,Nylon,120,Recycled Cardboard,Yes,Yes,3.0,None,2460.92,4.8,13697,40,90,100,100,20.0,40,66.5
+P0049,Paper Gift Bag,NatureTote,Bags,Paper,1315,Paper,Yes,Yes,4.0,None,2148.55,4.4,6629,75,85,100,100,26.666666666666668,40,76.92
+P0050,Silicone Food Cover,GreenKitchen,Kitchen,Silicone,1314,Plastic,Yes,Yes,5.0,GOTS,510.34,3.9,14207,55,30,100,100,33.33333333333333,95,68.83
+P0051,Reusable Safety Razor,PureCare,Personal Care,Metal,286,Paper,Yes,Yes,3.0,OEKO-TEX,794.5,4.5,13635,60,85,100,100,20.0,85,76.25
+P0052,Cotton Grocery Bag,EarthCarry,Bags,Cotton,1043,Paper,No,Yes,3.0,None,596.99,4.9,664,70,85,30,100,20.0,40,60.75
+P0053,Denim Jeans,EarthStyle,Clothing,Denim,100,Plastic,Yes,Yes,6.0,None,4748.23,3.9,4203,65,30,100,100,40.0,40,67.0
+P0054,Recycled Plastic Chair,HomeCraft,Furniture,Recycled Plastic,20398,Minimal Packaging,Yes,No,7.0,B Corp,5214.85,3.1,5116,60,95,100,30,46.666666666666664,85,69.92
+P0055,Nylon Travel Bag,GreenBag,Bags,Nylon,235,Recycled Cardboard,Yes,Yes,1.0,GOTS,1948.18,4.4,13202,40,90,100,100,6.666666666666667,95,70.67
+P0056,Portable SSD,NovaTech,Electronics,Aluminum + Electronics,741,Recycled Cardboard,Yes,Yes,7.0,None,21283.52,4.6,1734,40,90,100,100,46.666666666666664,40,69.17
+P0057,Hemp Backpack,UrbanCarry,Bags,Hemp,393,Recycled Cardboard,Yes,Yes,7.0,None,4886.56,4.1,7926,95,90,100,100,46.666666666666664,40,85.67
+P0058,Silicone Travel Bottle,EarthEssentials,Personal Care,Silicone,294,Paper,No,No,1.0,None,933.56,4.5,9341,55,85,30,30,6.666666666666667,40,44.42
+P0059,Hemp Backpack,EarthCarry,Bags,Hemp,1092,Recycled Cardboard,Yes,Yes,10.0,None,1821.02,4.2,14424,95,90,100,100,66.66666666666666,40,87.67
+P0060,Organic Honey,NatureBasket,Grocery,Honey,1158,Glass,Yes,No,1.5,Fair Trade,397.47,4.0,11667,80,70,100,30,10.0,90,69.0
+P0061,Reusable Menstrual Cup,PureCare,Personal Care,Medical Silicone,115,Paper,Yes,No,3.0,GOTS,774.9,4.1,5637,50,85,100,30,20.0,95,63.75
+P0062,Paper Gift Bag,EcoPack,Bags,Paper,800,Minimal Packaging,Yes,Yes,2.0,None,1315.99,3.2,8784,75,95,100,100,13.333333333333334,40,77.08
+P0063,Plastic Food Container,GreenKitchen,Kitchen,Plastic,1031,Cardboard,No,No,5.0,None,4903.5,4.7,4858,30,75,30,30,33.33333333333333,40,38.08
+P0064,Metal Nail Care Set,NatureCare,Beauty,Stainless Steel,174,Cardboard,Yes,Yes,1.0,B Corp,1418.13,4.4,2073,80,75,100,100,6.666666666666667,85,79.42
+P0065,Stainless Steel Razor,PureCare,Personal Care,Stainless Steel,607,Recycled Cardboard,Yes,Yes,2.0,B Corp,548.81,4.7,1874,80,90,100,100,13.333333333333334,85,82.33
+P0066,Mechanical Keyboard,SmartCore,Electronics,Plastic + Electronics,181,Plastic,Yes,Yes,3.0,Energy Star,23742.4,3.2,4071,25,30,100,100,20.0,90,58.0
+P0067,Phone Stand,SmartCore,Electronics,Aluminum,492,Recycled Cardboard,Yes,Yes,8.0,GOTS,10891.1,4.1,991,65,90,100,100,53.333333333333336,95,82.83
+P0068,Smartwatch,TechNest,Electronics,Aluminum + Electronics,571,Cardboard,Yes,Yes,2.0,None,10389.38,4.4,7704,40,75,100,100,13.333333333333334,40,63.58
+P0069,Organic Green Tea,PureHarvest,Grocery,Tea Leaves,690,Plastic,Yes,No,0.5,USDA Organic,1388.67,4.6,10245,80,30,100,30,3.3333333333333335,95,62.83
+P0070,Refillable Perfume Bottle,PureGlow,Beauty,Glass,298,Cardboard,Yes,No,7.0,None,223.32,4.6,9754,80,75,100,30,46.666666666666664,40,68.42
+P0071,Dried Mango,NatureBasket,Grocery,Fruit,1059,Plastic,Yes,Yes,1.0,Fair Trade,765.0,3.2,658,85,30,100,100,6.666666666666667,90,74.67
+P0072,Hemp Backpack,NatureTote,Bags,Hemp,592,Paper,Yes,No,10.0,Energy Star,3604.31,3.0,12534,95,85,100,30,66.66666666666666,90,81.42
+P0073,Pasta,NatureBasket,Grocery,Wheat,1662,Paper,Yes,No,1.0,None,897.73,4.3,8061,85,85,100,30,6.666666666666667,40,67.42
+P0074,Power Bank,Voltix,Electronics,Aluminum + Lithium Battery,866,Recycled Cardboard,Yes,Yes,3.0,None,17432.74,3.6,6566,35,90,100,100,20.0,40,65.0
+P0075,Bamboo Socks,GreenWear,Clothing,Bamboo Fiber,402,Cardboard,Yes,No,4.0,Energy Star,4158.65,3.0,14248,90,75,100,30,26.666666666666668,90,74.42
+P0076,Silicone Travel Bottle,PureCare,Personal Care,Silicone,212,Plastic,Yes,No,6.0,None,159.13,3.5,2151,55,30,100,30,40.0,40,53.5
+P0077,Dried Mango,GreenGrain,Grocery,Fruit,348,Paper,No,Yes,1.0,USDA Organic,499.59,3.0,6689,85,85,30,100,6.666666666666667,95,69.42
+P0078,Smartwatch,NovaTech,Electronics,Aluminum + Electronics,975,Cardboard,Yes,Yes,7.0,None,17722.67,3.8,7910,40,75,100,100,46.666666666666664,40,66.92
+P0079,Organic Cotton Towel,GreenCare,Personal Care,Organic Cotton,584,Paper,Yes,No,5.0,Fair Trade,323.83,3.1,12664,90,85,100,30,33.33333333333333,90,76.58
+P0080,Hemp Backpack,NatureTote,Bags,Hemp,627,Paper,Yes,Yes,5.0,GOTS,4026.66,4.7,7321,95,85,100,100,33.33333333333333,95,89.08
+P0081,Wooden Soap Dish,NatureTouch,Personal Care,Wood,585,Minimal Packaging,Yes,No,7.0,None,1412.15,4.1,3831,80,95,100,30,46.666666666666664,40,71.42
+P0082,Jute Shopping Bag,EcoPack,Bags,Jute,1048,Minimal Packaging,No,Yes,7.0,Fair Trade,3980.71,3.3,611,90,95,30,100,46.666666666666664,90,75.92
+P0083,Bamboo Spoon Set,DailyKitchen,Kitchen,Bamboo,719,Paper,No,Yes,5.0,USDA Organic,174.2,3.3,14274,95,85,30,100,33.33333333333333,95,75.08
+P0084,Glass Storage Jar,TerraHome,Kitchen,Glass,582,Paper,Yes,Yes,1.0,Energy Star,4275.47,4.7,6231,80,85,100,100,6.666666666666667,90,81.42
+P0085,Rattan Chair,HomeCraft,Furniture,Rattan,1676,Minimal Packaging,Yes,Yes,8.0,B Corp,30122.89,3.9,1617,85,95,100,100,53.333333333333336,85,88.58
+P0086,Power Bank,TechNest,Electronics,Aluminum + Lithium Battery,643,Cardboard,Yes,No,4.0,None,10936.96,3.5,6756,35,75,100,30,26.666666666666668,40,52.92
+P0087,Bamboo Cutting Board,GreenKitchen,Kitchen,Bamboo,201,Minimal Packaging,No,Yes,2.0,GOTS,2956.47,3.5,10456,95,95,30,100,13.333333333333334,95,74.58
+P0088,Dried Mango,FarmFresh,Grocery,Fruit,1465,Paper,No,Yes,1.0,USDA Organic,278.06,3.9,5666,85,85,30,100,6.666666666666667,95,69.42
+P0089,Dark Chocolate,FarmFresh,Grocery,Cocoa,1035,Cardboard,Yes,Yes,1.5,None,601.98,3.7,4852,75,75,100,100,10.0,40,73.75
+P0090,Organic Green Tea,GreenGrain,Grocery,Tea Leaves,662,Paper,Yes,No,0.5,B Corp,1129.5,4.7,14798,80,85,100,30,3.3333333333333335,85,70.08
+P0091,Organic Oats,DailyHarvest,Grocery,Oats,1742,Cardboard,Yes,Yes,1.0,USDA Organic,1094.35,4.3,13740,85,75,100,100,6.666666666666667,95,81.92
+P0092,Glass Storage Jar,HomePure,Kitchen,Glass,672,Paper,Yes,Yes,2.0,None,1545.04,4.5,2882,80,85,100,100,13.333333333333334,40,77.08
+P0093,Plastic Shampoo Bottle,EcoBeauty,Beauty,Plastic,468,Cardboard,Yes,No,7.0,None,2291.0,4.9,13218,30,75,100,30,46.666666666666664,40,53.42
+P0094,Wheat Flour,NatureBasket,Grocery,Wheat,1059,Paper,Yes,No,1.5,B Corp,1215.65,3.7,12959,85,85,100,30,10.0,85,72.25
+P0095,Jute Shopping Bag,EcoPack,Bags,Jute,1178,Paper,Yes,No,7.0,None,2408.95,4.3,6091,90,85,100,30,46.666666666666664,40,72.92
+P0096,Smartwatch,SmartCore,Electronics,Aluminum + Electronics,81,Recycled Cardboard,No,Yes,2.0,Energy Star,11766.41,4.4,10642,40,90,30,100,13.333333333333334,90,56.83
+P0097,Canvas Tote Bag,GreenBag,Bags,Canvas,172,Paper,Yes,Yes,1.0,None,3316.77,3.8,6083,70,85,100,100,6.666666666666667,40,73.42
+P0098,Recycled Cotton Sling Bag,GreenBag,Bags,Recycled Cotton,929,Minimal Packaging,Yes,Yes,4.0,USDA Organic,1821.49,4.4,3564,90,95,100,100,26.666666666666668,95,88.42
+P0099,Reusable Menstrual Cup,EcoLife,Personal Care,Medical Silicone,391,Cardboard,No,Yes,6.0,None,831.39,3.4,2006,50,75,30,100,40.0,40,55.25
+P0100,Stainless Steel Razor,EcoLife,Personal Care,Stainless Steel,677,Paper,Yes,Yes,7.0,None,1977.31,4.6,3367,80,85,100,100,46.666666666666664,40,80.42
+P0101,Phone Stand,TechNest,Electronics,Aluminum,472,Cardboard,Yes,Yes,6.0,None,21501.63,3.3,2134,65,75,100,100,40.0,40,73.75
+P0102,Brown Rice,NatureBasket,Grocery,Rice,1453,Paper,Yes,Yes,1.0,Energy Star,71.88,3.5,2081,80,85,100,100,6.666666666666667,90,81.42
+P0103,Paper Gift Bag,EarthCarry,Bags,Paper,210,Cardboard,Yes,Yes,5.0,None,3121.26,4.9,715,75,75,100,100,33.33333333333333,40,76.08
+P0104,Dried Mango,NatureBasket,Grocery,Fruit,224,Compostable,No,Yes,0.5,OEKO-TEX,1368.07,3.1,1328,85,100,30,100,3.3333333333333335,85,70.33
+P0105,Recycled Wood Cabinet,EcoHome,Furniture,Reclaimed Wood,2652,Cardboard,Yes,Yes,12.0,OEKO-TEX,15854.27,4.2,4836,90,75,100,100,80.0,85,89.75
+P0106,Natural Loofah,EarthEssentials,Personal Care,Plant Fiber,460,Paper,No,Yes,6.0,GOTS,1550.79,4.4,3527,90,85,30,100,40.0,95,74.25
+P0107,Bamboo Handle Bag,GreenBag,Bags,Bamboo + Cotton,927,Recycled Cardboard,No,Yes,7.0,None,2674.23,4.3,6137,85,90,30,100,46.666666666666664,40,68.67
+P0108,Silicone Food Cover,HomePure,Kitchen,Silicone,226,Cardboard,Yes,Yes,7.0,None,736.57,3.1,9206,55,75,100,100,46.666666666666664,40,71.42
+P0109,Wooden Office Chair,GreenLiving,Furniture,Wood,12086,Minimal Packaging,No,Yes,15.0,None,12216.55,3.6,1702,80,95,30,100,100.0,40,73.25
+P0110,Plastic Shampoo Bottle,GlowLeaf,Beauty,Plastic,134,Plastic,Yes,Yes,1.0,OEKO-TEX,1468.32,4.6,13852,30,30,100,100,6.666666666666667,85,57.67
+P0111,Viscose Dress,EcoThreads,Clothing,Viscose,109,Paper,Yes,No,3.0,None,1069.75,3.3,10774,55,85,100,30,20.0,40,59.75
+P0112,Canvas Tote Bag,GreenBag,Bags,Canvas,1376,Paper,Yes,Yes,4.0,None,2176.2,3.7,11827,70,85,100,100,26.666666666666668,40,75.42
+P0113,Recycled Wood Cabinet,HomeCraft,Furniture,Reclaimed Wood,3283,Cardboard,Yes,No,5.0,GOTS,11611.01,4.3,7962,90,75,100,30,33.33333333333333,95,75.58
+P0114,Silicone Travel Bottle,NatureTouch,Personal Care,Silicone,240,Plastic,Yes,Yes,3.0,GOTS,1209.68,4.1,5058,55,30,100,100,20.0,95,67.5
+P0115,Denim Jeans,UrbanLeaf,Clothing,Denim,693,Cardboard,Yes,Yes,2.0,OEKO-TEX,3866.97,3.6,1970,65,75,100,100,13.333333333333334,85,75.58
+P0116,Bamboo Socks,UrbanLeaf,Clothing,Bamboo Fiber,259,Paper,Yes,No,5.0,None,3405.63,3.7,6510,90,85,100,30,33.33333333333333,40,71.58
+P0117,Wool Sweater,GreenWear,Clothing,Wool,550,Paper,No,Yes,5.0,FSC,3271.68,3.6,6641,80,85,30,100,33.33333333333333,95,70.58
+P0118,Polyester Sports T-Shirt,EarthStyle,Clothing,Polyester,900,Recycled Cardboard,Yes,No,3.0,None,4252.52,3.5,9653,40,90,100,30,20.0,40,56.0
+P0119,Paper Gift Bag,EarthCarry,Bags,Paper,890,Cardboard,No,Yes,10.0,None,3159.8,3.2,8360,75,75,30,100,66.66666666666666,40,65.42
+P0120,Metal Nail Care Set,HerbalNest,Beauty,Stainless Steel,392,Paper,No,Yes,2.0,None,498.87,3.3,12442,80,85,30,100,13.333333333333334,40,63.08
+P0121,LED Desk Lamp,SmartCore,Electronics,Aluminum + Electronics,980,Recycled Cardboard,Yes,No,7.0,Energy Star,15724.69,4.7,10281,40,90,100,30,46.666666666666664,90,63.67
+P0122,Recycled Plastic Chair,GreenLiving,Furniture,Recycled Plastic,2737,Cardboard,Yes,Yes,8.0,None,14724.75,3.1,7570,60,75,100,100,53.333333333333336,40,73.58
+P0123,Bamboo Toothbrush,PureCare,Personal Care,Bamboo,397,Recycled Cardboard,Yes,No,7.0,None,1211.51,3.8,9513,95,90,100,30,46.666666666666664,40,75.17
+P0124,Bamboo Socks,PureFabric,Clothing,Bamboo Fiber,747,Paper,Yes,Yes,2.0,B Corp,2361.51,4.6,13724,90,85,100,100,13.333333333333334,85,84.58
+P0125,Wooden Office Chair,HomeCraft,Furniture,Wood,21672,Cardboard,Yes,No,10.0,None,24781.41,3.7,4639,80,75,100,30,66.66666666666666,40,70.42
+P0126,Nylon Travel Bag,EcoPack,Bags,Nylon,1304,Plastic,No,Yes,1.0,None,3435.19,3.8,4133,40,30,30,100,6.666666666666667,40,42.17
+P0127,Cast Iron Pan,HomePure,Kitchen,Cast Iron,1233,Cardboard,No,Yes,7.0,GOTS,2019.59,4.2,1393,80,75,30,100,46.666666666666664,95,70.42
+P0128,Organic Honey,GreenGrain,Grocery,Honey,1417,Cardboard,No,No,2.0,None,1021.16,4.0,303,80,75,30,30,13.333333333333334,40,51.08
+P0129,MDF Coffee Table,EcoHome,Furniture,MDF,7518,Plastic,No,Yes,7.0,B Corp,7041.86,3.6,12917,50,30,30,100,46.666666666666664,85,53.67
+P0130,Phone Stand,Electra,Electronics,Aluminum,1108,Cardboard,Yes,No,6.0,None,9603.98,3.3,13625,65,75,100,30,40.0,40,63.25
+P0131,Silicone Food Cover,HomePure,Kitchen,Silicone,881,Paper,Yes,Yes,4.0,FSC,3785.72,4.6,3838,55,85,100,100,26.666666666666668,95,76.42
+P0132,Bamboo Cotton Buds,GlowLeaf,Beauty,Bamboo + Cotton,482,Paper,Yes,No,4.0,None,760.89,3.8,8646,85,85,100,30,26.666666666666668,40,69.42
+P0133,Recycled Polyester Backpack,GreenBag,Bags,Recycled Polyester,1318,Recycled Cardboard,No,Yes,4.0,Energy Star,3415.34,3.2,13864,70,90,30,100,26.666666666666668,90,67.17
+P0134,USB-C Charging Cable,NovaTech,Electronics,PVC + Copper,358,Paper,Yes,Yes,8.0,None,23675.41,3.4,7396,25,85,100,100,53.333333333333336,40,64.58
+P0135,Bamboo Study Table,GreenLiving,Furniture,Bamboo,2245,Recycled Cardboard,Yes,Yes,5.0,FSC,2098.31,4.9,13754,95,90,100,100,33.33333333333333,95,89.83
+P0136,Recycled Plastic Chair,EcoHome,Furniture,Recycled Plastic,1755,Cardboard,No,Yes,7.0,OEKO-TEX,19294.29,4.2,14846,60,75,30,100,46.666666666666664,85,63.42
+P0137,Wireless Earbuds,Voltix,Electronics,Plastic + Electronics,471,Cardboard,Yes,No,6.0,None,19470.46,3.5,2001,25,75,100,30,40.0,40,51.25
+P0138,Denim Jeans,UrbanLeaf,Clothing,Denim,734,Plastic,Yes,Yes,4.0,None,277.89,4.0,3968,65,30,100,100,26.666666666666668,40,65.67
+P0139,Ceramic Coffee Mug,TerraHome,Kitchen,Ceramic,43,Recycled Cardboard,Yes,Yes,2.0,GOTS,518.51,4.9,1113,75,90,100,100,13.333333333333334,95,81.83
+P0140,Wool Sweater,UrbanLeaf,Clothing,Wool,124,Minimal Packaging,Yes,Yes,6.0,None,3983.9,3.7,12013,80,95,100,100,40.0,40,81.25
+P0141,Portable SSD,Voltix,Electronics,Aluminum + Electronics,303,Cardboard,Yes,Yes,7.0,None,19543.82,3.9,11398,40,75,100,100,46.666666666666664,40,66.92
+P0142,Reusable Safety Razor,EcoLife,Personal Care,Metal,84,Recycled Cardboard,No,Yes,3.0,None,1593.75,4.8,5175,60,90,30,100,20.0,40,58.5
+P0143,Organic Honey,GreenGrain,Grocery,Honey,1769,Plastic,Yes,Yes,1.0,None,1299.1,3.1,10748,80,30,100,100,6.666666666666667,40,68.17
+P0144,MDF Coffee Table,WoodNest,Furniture,MDF,12559,Plastic,No,No,10.0,None,8284.87,4.4,6023,50,30,30,30,66.66666666666666,40,40.67
+P0145,Coffee Beans,GreenGrain,Grocery,Coffee Beans,261,Plastic,Yes,No,2.0,None,197.77,3.7,4848,75,30,100,30,13.333333333333334,40,56.83
+P0146,Dried Mango,DailyHarvest,Grocery,Fruit,1569,Compostable,Yes,Yes,1.5,None,1310.55,3.7,7131,85,100,100,100,10.0,40,80.5
+P0147,Organic Green Tea,NatureBasket,Grocery,Tea Leaves,1474,Plastic,Yes,Yes,1.0,B Corp,256.03,4.2,12806,80,30,100,100,6.666666666666667,85,72.67
+P0148,Bamboo Toothbrush,EcoLife,Personal Care,Bamboo,88,Paper,No,Yes,4.0,B Corp,121.83,3.3,7376,95,85,30,100,26.666666666666668,85,73.42
+P0149,Bamboo Storage Rack,GreenLiving,Furniture,Bamboo,3019,Minimal Packaging,Yes,Yes,8.0,OEKO-TEX,10733.85,3.2,12058,95,95,100,100,53.333333333333336,85,91.58
+P0150,Silicone Food Cover,DailyKitchen,Kitchen,Silicone,832,Plastic,Yes,No,7.0,None,4981.19,3.6,8052,55,30,100,30,46.666666666666664,40,54.17
+P0151,Glass Face Serum Bottle,NatureCare,Beauty,Glass,456,Cardboard,Yes,No,4.0,B Corp,2040.44,4.9,5241,80,75,100,30,26.666666666666668,85,70.92
+P0152,Wooden Office Chair,HomeCraft,Furniture,Wood,18265,Paper,No,No,15.0,OEKO-TEX,28307.55,3.3,5927,80,85,30,30,100.0,85,65.75
+P0153,Glass Face Serum Bottle,NatureCare,Beauty,Glass,425,Cardboard,Yes,Yes,3.0,None,971.77,4.6,9043,80,75,100,100,20.0,40,76.25
+P0154,Glass Water Bottle,HomePure,Kitchen,Glass,174,Paper,Yes,No,4.0,None,3867.91,4.6,1213,80,85,100,30,26.666666666666668,40,67.92
+P0155,Cast Iron Pan,HomePure,Kitchen,Cast Iron,961,Minimal Packaging,Yes,Yes,10.0,Fair Trade,3233.99,3.4,2119,80,95,100,100,66.66666666666666,90,88.92
+P0156,Paper Gift Bag,EarthCarry,Bags,Paper,334,Minimal Packaging,Yes,Yes,3.0,B Corp,1506.73,4.9,8506,75,95,100,100,20.0,85,82.25
+P0157,Coffee Beans,FarmFresh,Grocery,Coffee Beans,502,Compostable,No,Yes,1.0,USDA Organic,184.47,4.3,9701,75,100,30,100,6.666666666666667,95,68.67
+P0158,Bamboo Cutting Board,DailyKitchen,Kitchen,Bamboo,1279,Recycled Cardboard,No,Yes,10.0,Energy Star,496.99,4.9,12637,95,90,30,100,66.66666666666666,90,78.67
+P0159,Organic Oats,DailyHarvest,Grocery,Oats,953,Plastic,Yes,Yes,2.0,None,1436.14,4.0,13189,85,30,100,100,13.333333333333334,40,70.33
+P0160,Cotton Grocery Bag,UrbanCarry,Bags,Cotton,229,Plastic,Yes,Yes,4.0,None,2172.12,3.3,14119,70,30,100,100,26.666666666666668,40,67.17
+P0161,Bamboo Storage Rack,GreenLiving,Furniture,Bamboo,4784,Recycled Cardboard,Yes,Yes,7.0,GOTS,11430.4,3.5,1591,95,90,100,100,46.666666666666664,95,91.17
+P0162,Hemp Hoodie,UrbanLeaf,Clothing,Hemp,710,Recycled Cardboard,Yes,No,2.0,Fair Trade,4681.01,4.4,3115,95,90,100,30,13.333333333333334,90,76.83
+P0163,Silicone Food Cover,DailyKitchen,Kitchen,Silicone,996,Paper,No,Yes,1.0,B Corp,2575.68,4.9,3529,55,85,30,100,6.666666666666667,85,59.42
+P0164,Bamboo Study Table,WoodNest,Furniture,Bamboo,9719,Recycled Cardboard,Yes,No,15.0,GOTS,21929.94,4.7,7065,95,90,100,30,100.0,95,86.0
+P0165,Ceramic Coffee Mug,CookEase,Kitchen,Ceramic,865,Paper,Yes,Yes,5.0,None,2809.79,3.1,8266,75,85,100,100,33.33333333333333,40,77.58
+P0166,Natural Loofah,NatureTouch,Personal Care,Plant Fiber,658,Minimal Packaging,Yes,Yes,1.0,None,1601.1,3.7,5995,90,95,100,100,6.666666666666667,40,80.92
+P0167,Plastic Food Container,DailyKitchen,Kitchen,Plastic,1082,Cardboard,Yes,Yes,2.0,OEKO-TEX,4038.43,4.0,2445,30,75,100,100,13.333333333333334,85,65.08
+P0168,Cast Iron Pan,DailyKitchen,Kitchen,Cast Iron,692,Cardboard,Yes,Yes,10.0,None,1747.23,4.7,8726,80,75,100,100,66.66666666666666,40,80.92
+P0169,Refillable Hand Wash Bottle,NatureTouch,Personal Care,Glass,506,Cardboard,Yes,No,4.0,None,1604.7,4.5,11277,80,75,100,30,26.666666666666668,40,66.42
+P0170,Viscose Dress,UrbanLeaf,Clothing,Viscose,351,Plastic,No,No,5.0,None,445.5,4.0,8594,55,30,30,30,33.33333333333333,40,38.83
+P0171,Recycled Polyester Backpack,GreenBag,Bags,Recycled Polyester,144,Minimal Packaging,No,Yes,1.0,FSC,2627.93,3.8,3345,70,95,30,100,6.666666666666667,95,66.42
+P0172,Paper Gift Bag,NatureTote,Bags,Paper,1045,Minimal Packaging,No,No,5.0,None,2084.29,4.3,8614,75,95,30,30,33.33333333333333,40,54.58
+P0173,Hemp Backpack,GreenBag,Bags,Hemp,1021,Minimal Packaging,Yes,Yes,10.0,Energy Star,4147.33,4.6,4336,95,95,100,100,66.66666666666666,90,93.42
+P0174,Organic Cotton Towel,EcoLife,Personal Care,Organic Cotton,305,Minimal Packaging,Yes,No,3.0,Fair Trade,1426.51,4.4,8016,90,95,100,30,20.0,90,76.75
+P0175,Rattan Chair,UrbanWood,Furniture,Rattan,18866,Minimal Packaging,Yes,Yes,15.0,None,35933.66,3.8,5659,85,95,100,100,100.0,40,88.75
+P0176,Ceramic Coffee Mug,HomePure,Kitchen,Ceramic,629,Recycled Cardboard,Yes,No,7.0,None,2446.49,3.4,8829,75,90,100,30,46.666666666666664,40,69.17
+P0177,Organic Honey,FarmFresh,Grocery,Honey,381,Glass,Yes,Yes,1.0,None,1361.52,3.5,3819,80,70,100,100,6.666666666666667,40,74.17
+P0178,Cotton T-Shirt,UrbanLeaf,Clothing,Cotton,418,Plastic,Yes,No,2.0,None,2840.69,4.9,6671,70,30,100,30,13.333333333333334,40,55.33
+P0179,Reusable Menstrual Cup,EcoLife,Personal Care,Medical Silicone,314,Paper,Yes,Yes,7.0,None,1172.82,4.1,11852,50,85,100,100,46.666666666666664,40,71.42
+P0180,Linen Shirt,UrbanLeaf,Clothing,Linen,260,Paper,No,Yes,4.0,None,3794.22,4.7,4747,85,85,30,100,26.666666666666668,40,65.92
+P0181,Organic Cotton T-Shirt,EcoThreads,Clothing,Organic Cotton,661,Minimal Packaging,Yes,No,3.0,GOTS,3277.3,4.0,14574,90,95,100,30,20.0,95,77.25
+P0182,Bamboo Spoon Set,TerraHome,Kitchen,Bamboo,598,Paper,No,Yes,7.0,GOTS,1359.6,3.4,12073,95,85,30,100,46.666666666666664,95,76.42
+P0183,MDF Coffee Table,HomeCraft,Furniture,MDF,22598,Cardboard,Yes,No,10.0,Fair Trade,21094.95,3.2,10970,50,75,100,30,66.66666666666666,90,66.42
+P0184,LED Desk Lamp,TechNest,Electronics,Aluminum + Electronics,1007,Recycled Cardboard,No,Yes,5.0,None,18916.79,4.9,4952,40,90,30,100,33.33333333333333,40,53.83
+P0185,Hemp Hoodie,EcoThreads,Clothing,Hemp,789,Paper,Yes,Yes,3.0,None,3492.15,4.8,14550,95,85,100,100,20.0,40,82.25
+P0186,Coffee Beans,FarmFresh,Grocery,Coffee Beans,852,Compostable,Yes,No,1.5,None,1133.22,4.2,6818,75,100,100,30,10.0,40,67.0
+P0187,Natural Loofah,EcoLife,Personal Care,Plant Fiber,273,Minimal Packaging,No,No,1.0,None,1083.66,3.7,9248,90,95,30,30,6.666666666666667,40,56.42
+P0188,Wireless Earbuds,Electra,Electronics,Plastic + Electronics,1065,Cardboard,Yes,Yes,4.0,Energy Star,11212.46,4.4,11750,25,75,100,100,26.666666666666668,90,65.42
+P0189,Stainless Steel Razor,EarthEssentials,Personal Care,Stainless Steel,476,Cardboard,Yes,Yes,4.0,None,1143.07,4.3,5054,80,75,100,100,26.666666666666668,40,76.92
+P0190,Wool Sweater,EcoThreads,Clothing,Wool,83,Minimal Packaging,Yes,Yes,4.0,FSC,505.05,5.0,14655,80,95,100,100,26.666666666666668,95,85.42
+P0191,Power Bank,NovaTech,Electronics,Aluminum + Lithium Battery,617,Recycled Cardboard,Yes,Yes,7.0,B Corp,16252.26,3.8,14608,35,90,100,100,46.666666666666664,85,72.17
+P0192,Bamboo Handle Bag,UrbanCarry,Bags,Bamboo + Cotton,849,Paper,Yes,No,5.0,None,5188.66,3.2,8807,85,85,100,30,33.33333333333333,40,70.08
+P0193,Paper Gift Bag,GreenBag,Bags,Paper,536,Paper,No,No,4.0,GOTS,3356.78,4.1,13494,75,85,30,30,26.666666666666668,95,57.92
+P0194,Reusable Makeup Pads,GlowLeaf,Beauty,Organic Cotton,197,Paper,Yes,No,6.0,Fair Trade,156.97,4.3,10079,90,85,100,30,40.0,90,77.25
+P0195,Denim Jeans,EarthStyle,Clothing,Denim,148,Cardboard,Yes,Yes,6.0,OEKO-TEX,432.65,4.5,6595,65,75,100,100,40.0,85,78.25
+P0196,Organic Cotton Towel,EarthEssentials,Personal Care,Organic Cotton,242,Paper,Yes,No,2.0,Fair Trade,1478.14,3.6,9801,90,85,100,30,13.333333333333334,90,74.58
+P0197,Solid Wood Bookshelf,UrbanWood,Furniture,Wood,5194,Minimal Packaging,Yes,Yes,8.0,None,37991.29,4.8,14940,80,95,100,100,53.333333333333336,40,82.58
+P0198,Steel Lunch Box,DailyKitchen,Kitchen,Stainless Steel,1055,Cardboard,No,No,7.0,None,2668.87,4.4,6693,80,75,30,30,46.666666666666664,40,54.42
+P0199,Ceramic Coffee Mug,TerraHome,Kitchen,Ceramic,416,Recycled Cardboard,Yes,No,3.0,Energy Star,806.32,3.9,949,75,90,100,30,20.0,90,71.5
+P0200,Nylon Travel Bag,NatureTote,Bags,Nylon,1165,Plastic,Yes,Yes,3.0,FSC,5547.91,4.7,1519,40,30,100,100,20.0,95,63.0
+P0201,Bamboo Hair Brush,HerbalNest,Beauty,Bamboo,213,Minimal Packaging,Yes,Yes,1.0,None,1922.31,4.4,9161,95,95,100,100,6.666666666666667,40,82.42
+P0202,Lip Balm Tube,NatureCare,Beauty,Plastic,465,Cardboard,Yes,No,2.0,B Corp,2407.23,3.2,12363,30,75,100,30,13.333333333333334,85,54.58
+P0203,Organic Cotton Towel,EarthEssentials,Personal Care,Organic Cotton,229,Recycled Cardboard,No,Yes,7.0,FSC,963.53,4.3,5058,90,90,30,100,46.666666666666664,95,75.67
+P0204,Wheat Flour,DailyHarvest,Grocery,Wheat,1907,Plastic,Yes,No,1.5,USDA Organic,513.34,3.4,5131,85,30,100,30,10.0,95,65.0
+P0205,Jute Shopping Bag,NatureTote,Bags,Jute,533,Minimal Packaging,Yes,Yes,5.0,None,2620.95,3.3,5409,90,95,100,100,33.33333333333333,40,83.58
+P0206,Refillable Perfume Bottle,EcoBeauty,Beauty,Glass,446,Cardboard,Yes,No,6.0,None,1926.33,4.0,11859,80,75,100,30,40.0,40,67.75
+P0207,Reusable Menstrual Cup,EcoLife,Personal Care,Medical Silicone,380,Cardboard,Yes,Yes,2.0,B Corp,1110.75,4.3,967,50,75,100,100,13.333333333333334,85,71.08
+P0208,Cotton T-Shirt,GreenWear,Clothing,Cotton,862,Paper,Yes,No,2.0,None,923.94,3.4,7476,70,85,100,30,13.333333333333334,40,63.58
+P0209,Bamboo Study Table,HomeCraft,Furniture,Bamboo,21397,Minimal Packaging,No,No,15.0,GOTS,1256.88,4.1,199,95,95,30,30,100.0,95,72.75
+P0210,Recycled Polyester Jacket,EcoThreads,Clothing,Recycled Polyester,628,Paper,Yes,No,6.0,FSC,4709.62,3.4,1583,70,85,100,30,40.0,95,71.75
+P0211,Plastic Food Container,GreenKitchen,Kitchen,Plastic,1309,Recycled Cardboard,Yes,Yes,10.0,None,1926.95,3.8,9261,30,90,100,100,66.66666666666666,40,68.17
+P0212,Reusable Makeup Pads,HerbalNest,Beauty,Organic Cotton,370,Paper,Yes,No,7.0,None,1059.77,3.8,7803,90,85,100,30,46.666666666666664,40,72.92
+P0213,Organic Cotton T-Shirt,EarthStyle,Clothing,Organic Cotton,164,Recycled Cardboard,No,Yes,3.0,GOTS,4317.21,3.2,8658,90,90,30,100,20.0,95,73.0
+P0214,Denim Jeans,EarthStyle,Clothing,Denim,788,Plastic,Yes,Yes,1.0,GOTS,1544.79,4.1,10787,65,30,100,100,6.666666666666667,95,69.17
+P0215,Linen Shirt,EcoThreads,Clothing,Linen,96,Paper,Yes,No,6.0,Fair Trade,4657.6,3.6,9244,85,85,100,30,40.0,90,75.75
+P0216,Wooden Comb,GlowLeaf,Beauty,Wood,366,Minimal Packaging,Yes,No,2.0,Fair Trade,1747.13,3.2,12218,80,95,100,30,13.333333333333334,90,73.08
+P0217,Bamboo Study Table,WoodNest,Furniture,Bamboo,14822,Paper,No,Yes,12.0,B Corp,16470.42,4.5,490,95,85,30,100,80.0,85,78.75
+P0218,Dried Mango,GreenGrain,Grocery,Fruit,567,Compostable,Yes,Yes,1.0,USDA Organic,1006.97,3.2,10140,85,100,100,100,6.666666666666667,95,85.67
+P0219,Organic Oats,NatureBasket,Grocery,Oats,268,Cardboard,Yes,No,1.0,USDA Organic,508.18,3.2,90,85,75,100,30,6.666666666666667,95,71.42
+P0220,Dried Mango,FarmFresh,Grocery,Fruit,1659,Compostable,Yes,Yes,1.5,None,853.37,3.8,435,85,100,100,100,10.0,40,80.5
+P0221,Wireless Mouse,Electra,Electronics,Plastic + Electronics,220,Plastic,Yes,Yes,5.0,None,10520.11,4.6,11880,25,30,100,100,33.33333333333333,40,54.33
+P0222,Wooden Comb,EcoBeauty,Beauty,Wood,106,Minimal Packaging,Yes,Yes,3.0,None,432.16,3.3,4526,80,95,100,100,20.0,40,79.25
+P0223,Cotton Grocery Bag,UrbanCarry,Bags,Cotton,237,Cardboard,Yes,Yes,7.0,None,3775.68,3.9,2224,70,75,100,100,46.666666666666664,40,75.92
+P0224,Organic Green Tea,GreenGrain,Grocery,Tea Leaves,780,Plastic,Yes,No,1.5,None,1231.44,4.7,9743,80,30,100,30,10.0,40,58.0
+P0225,Ceramic Coffee Mug,CookEase,Kitchen,Ceramic,1275,Recycled Cardboard,Yes,Yes,4.0,B Corp,1527.1,4.4,8049,75,90,100,100,26.666666666666668,85,82.17
+P0226,Metal Nail Care Set,GlowLeaf,Beauty,Stainless Steel,163,Recycled Cardboard,Yes,No,2.0,None,1399.42,4.4,9017,80,90,100,30,13.333333333333334,40,67.33
+P0227,Bamboo Socks,EarthStyle,Clothing,Bamboo Fiber,528,Cardboard,No,Yes,7.0,Fair Trade,2162.88,4.0,10381,90,75,30,100,46.666666666666664,90,72.92
+P0228,Organic Oats,FarmFresh,Grocery,Oats,1448,Paper,Yes,No,0.5,None,916.0,4.2,8760,85,85,100,30,3.3333333333333335,40,67.08
+P0229,Paper Gift Bag,EarthCarry,Bags,Paper,816,Minimal Packaging,No,Yes,7.0,B Corp,833.34,3.5,10895,75,95,30,100,46.666666666666664,85,70.92
+P0230,Recycled Plastic Chair,HomeCraft,Furniture,Recycled Plastic,1951,Minimal Packaging,No,No,10.0,B Corp,13931.27,4.6,1740,60,95,30,30,66.66666666666666,85,57.92
+P0231,Cotton T-Shirt,EcoThreads,Clothing,Cotton,307,Plastic,No,Yes,6.0,None,2338.74,3.8,12659,70,30,30,100,40.0,40,54.5
+P0232,Cast Iron Pan,HomePure,Kitchen,Cast Iron,1028,Cardboard,Yes,No,1.0,None,4708.31,3.3,5115,80,75,100,30,6.666666666666667,40,64.42
+P0233,Rattan Chair,EcoHome,Furniture,Rattan,17575,Cardboard,Yes,Yes,15.0,GOTS,13436.47,3.6,13279,85,75,100,100,100.0,95,91.25
+P0234,Wireless Earbuds,Voltix,Electronics,Plastic + Electronics,253,Plastic,No,No,7.0,None,4607.99,3.3,9177,25,30,30,30,46.666666666666664,40,31.17
+P0235,Bamboo Handle Bag,GreenBag,Bags,Bamboo + Cotton,909,Paper,Yes,No,4.0,None,3760.82,3.4,9707,85,85,100,30,26.666666666666668,40,69.42
+P0236,Nylon Travel Bag,EarthCarry,Bags,Nylon,519,Plastic,Yes,No,10.0,None,789.16,4.7,3068,40,30,100,30,66.66666666666666,40,51.67
+P0237,Bamboo Storage Rack,EcoHome,Furniture,Bamboo,15493,Paper,Yes,No,12.0,B Corp,13221.76,3.8,6436,95,85,100,30,80.0,85,82.25
+P0238,Wireless Mouse,Voltix,Electronics,Plastic + Electronics,967,Plastic,Yes,No,8.0,None,15476.77,3.2,2199,25,30,100,30,53.333333333333336,40,45.83
+P0239,Wooden Office Chair,EcoHome,Furniture,Wood,10506,Cardboard,Yes,No,12.0,None,24259.61,4.1,6936,80,75,100,30,80.0,40,71.75
+P0240,Silicone Food Cover,DailyKitchen,Kitchen,Silicone,1460,Plastic,No,Yes,2.0,None,786.45,3.6,7394,55,30,30,100,13.333333333333334,40,47.33
+P0241,Polyester Sports T-Shirt,GreenWear,Clothing,Polyester,576,Plastic,Yes,Yes,5.0,None,2574.86,4.4,6814,40,30,100,100,33.33333333333333,40,58.83
+P0242,Reusable Menstrual Cup,EcoLife,Personal Care,Medical Silicone,104,Recycled Cardboard,Yes,No,3.0,None,495.2,3.6,12796,50,90,100,30,20.0,40,59.0
+P0243,Refillable Hand Wash Bottle,GreenCare,Personal Care,Glass,582,Recycled Cardboard,Yes,Yes,7.0,None,1981.33,4.1,12404,80,90,100,100,46.666666666666664,40,81.17
+P0244,Bamboo Socks,PureFabric,Clothing,Bamboo Fiber,303,Cardboard,Yes,No,7.0,None,4398.09,3.1,4310,90,75,100,30,46.666666666666664,40,71.42
+P0245,Wooden Office Chair,GreenLiving,Furniture,Wood,4346,Cardboard,Yes,No,15.0,None,28718.4,4.3,2724,80,75,100,30,100.0,40,73.75
+P0246,Plastic Food Container,GreenKitchen,Kitchen,Plastic,161,Recycled Cardboard,Yes,Yes,5.0,None,4896.1,3.6,9388,30,90,100,100,33.33333333333333,40,64.83
+P0247,Organic Honey,NatureBasket,Grocery,Honey,377,Cardboard,No,No,1.0,USDA Organic,241.4,3.3,5282,80,75,30,30,6.666666666666667,95,55.92
+P0248,Refillable Perfume Bottle,GlowLeaf,Beauty,Glass,92,Recycled Cardboard,Yes,Yes,4.0,None,1612.38,4.8,1530,80,90,100,100,26.666666666666668,40,79.17
+P0249,Paper Gift Bag,EcoPack,Bags,Paper,835,Cardboard,No,Yes,1.0,Energy Star,5112.57,3.2,7516,75,75,30,100,6.666666666666667,90,64.42
+P0250,Wooden Office Chair,HomeCraft,Furniture,Wood,13532,Cardboard,No,No,10.0,None,33304.4,3.7,9473,80,75,30,30,66.66666666666666,40,56.42
+P0251,Glass Water Bottle,TerraHome,Kitchen,Glass,743,Recycled Cardboard,No,Yes,7.0,Fair Trade,2350.95,3.2,14056,80,90,30,100,46.666666666666664,90,72.17
+P0252,Silicone Food Cover,TerraHome,Kitchen,Silicone,41,Paper,Yes,No,2.0,USDA Organic,1578.14,4.7,14367,55,85,100,30,13.333333333333334,95,64.58
+P0253,Coffee Beans,FarmFresh,Grocery,Coffee Beans,612,Paper,Yes,No,1.0,None,956.13,4.5,12378,75,85,100,30,6.666666666666667,40,64.42
+P0254,Refillable Perfume Bottle,PureGlow,Beauty,Glass,380,Cardboard,Yes,Yes,2.0,None,1336.06,3.9,137,80,75,100,100,13.333333333333334,40,75.58
+P0255,Wooden Office Chair,GreenLiving,Furniture,Wood,23242,Cardboard,Yes,Yes,5.0,OEKO-TEX,4993.66,3.6,14439,80,75,100,100,33.33333333333333,85,82.08
+P0256,Brown Rice,GreenGrain,Grocery,Rice,1684,Paper,Yes,No,0.5,Fair Trade,61.29,4.3,7215,80,85,100,30,3.3333333333333335,90,70.58
+P0257,Solid Wood Bookshelf,EcoHome,Furniture,Wood,13990,Minimal Packaging,Yes,No,5.0,USDA Organic,6459.51,3.2,11965,80,95,100,30,33.33333333333333,95,75.58
+P0258,Hemp Backpack,UrbanCarry,Bags,Hemp,724,Paper,Yes,Yes,2.0,GOTS,3679.05,4.2,12767,95,85,100,100,13.333333333333334,95,87.08
+P0259,Hemp Hoodie,EarthStyle,Clothing,Hemp,610,Minimal Packaging,Yes,No,3.0,OEKO-TEX,3961.25,4.6,3926,95,95,100,30,20.0,85,77.75
+P0260,Silicone Travel Bottle,PureCare,Personal Care,Silicone,266,Paper,Yes,Yes,1.0,B Corp,1870.81,3.3,14108,55,85,100,100,6.666666666666667,85,73.42
+P0261,Hemp Backpack,NatureTote,Bags,Hemp,433,Recycled Cardboard,No,No,1.0,GOTS,279.0,3.4,995,95,90,30,30,6.666666666666667,95,62.67
+P0262,Paper Gift Bag,EcoPack,Bags,Paper,1367,Minimal Packaging,Yes,Yes,7.0,None,3914.12,4.1,2506,75,95,100,100,46.666666666666664,40,80.42
+P0263,Coffee Beans,FarmFresh,Grocery,Coffee Beans,261,Compostable,No,No,1.0,Fair Trade,615.56,4.3,13677,75,100,30,30,6.666666666666667,90,57.67
+P0264,USB-C Charging Cable,SmartCore,Electronics,PVC + Copper,518,Cardboard,Yes,No,2.0,None,15337.16,3.6,12156,25,75,100,30,13.333333333333334,40,48.58
+P0265,Glass Storage Jar,HomePure,Kitchen,Glass,1489,Cardboard,Yes,Yes,3.0,None,3935.64,4.4,2740,80,75,100,100,20.0,40,76.25
+P0266,Recycled Plastic Chair,UrbanWood,Furniture,Recycled Plastic,24516,Recycled Cardboard,No,Yes,10.0,None,3490.01,4.4,9452,60,90,30,100,66.66666666666666,40,63.17
+P0267,Power Bank,SmartCore,Electronics,Aluminum + Lithium Battery,1076,Recycled Cardboard,Yes,No,3.0,None,6600.37,3.2,9407,35,90,100,30,20.0,40,54.5
+P0268,Smartwatch,Electra,Electronics,Aluminum + Electronics,35,Cardboard,No,Yes,2.0,None,9758.59,3.3,14054,40,75,30,100,13.333333333333334,40,49.58
+P0269,Recycled Polyester Jacket,UrbanLeaf,Clothing,Recycled Polyester,309,Paper,Yes,No,3.0,None,572.86,3.7,8230,70,85,100,30,20.0,40,64.25
+P0270,Linen Shirt,EarthStyle,Clothing,Linen,608,Paper,No,Yes,4.0,Energy Star,3911.93,3.6,1420,85,85,30,100,26.666666666666668,90,70.92
+P0271,Bamboo Toothbrush,NatureTouch,Personal Care,Bamboo,225,Recycled Cardboard,Yes,Yes,5.0,None,773.45,4.9,12663,95,90,100,100,33.33333333333333,40,84.33
+P0272,Natural Soap Bar,NatureCare,Beauty,Plant-based,97,Paper,No,Yes,5.0,None,2110.77,4.8,5493,90,85,30,100,33.33333333333333,40,68.08
+P0273,Wool Sweater,EcoThreads,Clothing,Wool,186,Paper,Yes,Yes,4.0,B Corp,4867.28,3.3,4589,80,85,100,100,26.666666666666668,85,82.92
+P0274,Wireless Earbuds,TechNest,Electronics,Plastic + Electronics,1094,Recycled Cardboard,Yes,Yes,7.0,None,2659.75,3.3,13439,25,90,100,100,46.666666666666664,40,64.67
+P0275,Canvas Tote Bag,NatureTote,Bags,Canvas,1242,Paper,Yes,No,2.0,None,5134.3,4.9,6443,70,85,100,30,13.333333333333334,40,63.58
+P0276,Bamboo Storage Rack,GreenLiving,Furniture,Bamboo,9411,Paper,Yes,Yes,12.0,None,5119.65,3.9,5150,95,85,100,100,80.0,40,88.25
+P0277,Canvas Tote Bag,NatureTote,Bags,Canvas,813,Paper,Yes,Yes,10.0,None,1113.17,4.4,13544,70,85,100,100,66.66666666666666,40,79.42
+P0278,Denim Jeans,EcoThreads,Clothing,Denim,231,Cardboard,Yes,No,4.0,None,3449.48,3.5,2853,65,75,100,30,26.666666666666668,40,61.92
+P0279,Wool Sweater,UrbanLeaf,Clothing,Wool,649,Minimal Packaging,Yes,Yes,1.0,Fair Trade,870.01,3.0,13609,80,95,100,100,6.666666666666667,90,82.92
+P0280,Plastic Shampoo Bottle,NatureCare,Beauty,Plastic,441,Cardboard,Yes,Yes,6.0,None,1497.41,4.8,1233,30,75,100,100,40.0,40,63.25
+P0281,Cotton T-Shirt,EarthStyle,Clothing,Cotton,741,Cardboard,No,Yes,7.0,Fair Trade,1790.44,3.1,7557,70,75,30,100,46.666666666666664,90,66.92
+P0282,Linen Shirt,PureFabric,Clothing,Linen,523,Minimal Packaging,Yes,Yes,6.0,FSC,1897.93,4.8,4510,85,95,100,100,40.0,95,88.25
+P0283,Dried Mango,PureHarvest,Grocery,Fruit,170,Plastic,Yes,Yes,1.0,OEKO-TEX,1329.03,4.0,1442,85,30,100,100,6.666666666666667,85,74.17
+P0284,Dark Chocolate,PureHarvest,Grocery,Cocoa,958,Paper,Yes,No,1.0,USDA Organic,1212.14,4.6,6271,75,85,100,30,6.666666666666667,95,69.92
+P0285,Rattan Chair,HomeCraft,Furniture,Rattan,16381,Cardboard,No,Yes,10.0,None,2015.46,4.2,485,85,75,30,100,66.66666666666666,40,68.42
+P0286,Organic Green Tea,GreenGrain,Grocery,Tea Leaves,1184,Cardboard,No,No,1.0,None,1001.45,3.5,13379,80,75,30,30,6.666666666666667,40,50.42
+P0287,Denim Jeans,PureFabric,Clothing,Denim,896,Paper,Yes,No,7.0,None,1334.45,3.6,12098,65,85,100,30,46.666666666666664,40,65.42
+P0288,Recycled Wood Cabinet,WoodNest,Furniture,Reclaimed Wood,23550,Minimal Packaging,Yes,Yes,7.0,None,8340.11,5.0,14449,90,95,100,100,46.666666666666664,40,84.92
+P0289,Natural Loofah,NatureTouch,Personal Care,Plant Fiber,199,Compostable,Yes,Yes,5.0,None,1080.31,3.0,10066,90,100,100,100,33.33333333333333,40,84.33
+P0290,Plastic Shampoo Bottle,HerbalNest,Beauty,Plastic,387,Plastic,No,No,3.0,None,436.46,4.4,2325,30,30,30,30,20.0,40,30.0
+P0291,Phone Stand,Voltix,Electronics,Aluminum,178,Recycled Cardboard,Yes,No,6.0,None,7752.6,3.3,2585,65,90,100,30,40.0,40,65.5
+P0292,Bamboo Handle Bag,EcoPack,Bags,Bamboo + Cotton,436,Recycled Cardboard,Yes,Yes,2.0,None,4456.17,3.6,2916,85,90,100,100,13.333333333333334,40,79.33
+P0293,Viscose Dress,UrbanLeaf,Clothing,Viscose,869,Plastic,Yes,Yes,7.0,B Corp,1259.3,4.1,8134,55,30,100,100,46.666666666666664,85,69.17
+P0294,Cast Iron Pan,HomePure,Kitchen,Cast Iron,527,Minimal Packaging,No,Yes,1.0,Fair Trade,3382.12,4.5,5505,80,95,30,100,6.666666666666667,90,68.92
+P0295,Bamboo Toothbrush,NatureTouch,Personal Care,Bamboo,234,Paper,Yes,Yes,7.0,None,61.49,3.8,12007,95,85,100,100,46.666666666666664,40,84.92
+P0296,Recycled Polyester Backpack,UrbanCarry,Bags,Recycled Polyester,1089,Paper,Yes,Yes,10.0,GOTS,5210.49,4.3,11263,70,85,100,100,66.66666666666666,95,84.92
+P0297,Plastic Shampoo Bottle,GlowLeaf,Beauty,Plastic,57,Plastic,Yes,Yes,1.0,None,490.65,3.8,11997,30,30,100,100,6.666666666666667,40,53.17
+P0298,Phone Stand,NovaTech,Electronics,Aluminum,722,Recycled Cardboard,Yes,Yes,7.0,None,22275.91,3.3,1664,65,90,100,100,46.666666666666664,40,76.67
+P0299,Solid Wood Bookshelf,EcoHome,Furniture,Wood,13911,Minimal Packaging,Yes,No,12.0,None,11978.4,3.5,818,80,95,100,30,80.0,40,74.75
+P0300,Recycled Cotton Sling Bag,NatureTote,Bags,Recycled Cotton,1085,Paper,Yes,Yes,1.0,FSC,4038.72,4.2,3276,90,85,100,100,6.666666666666667,95,84.92
+P0301,Wireless Earbuds,TechNest,Electronics,Plastic + Electronics,379,Plastic,Yes,Yes,8.0,None,19685.45,3.9,14666,25,30,100,100,53.333333333333336,40,56.33
+P0302,Coffee Beans,DailyHarvest,Grocery,Coffee Beans,893,Paper,Yes,Yes,1.0,None,430.78,3.9,3711,75,85,100,100,6.666666666666667,40,74.92
+P0303,Pasta,NatureBasket,Grocery,Wheat,409,Cardboard,Yes,Yes,1.0,USDA Organic,649.28,4.5,3732,85,75,100,100,6.666666666666667,95,81.92
+P0304,Wool Sweater,PureFabric,Clothing,Wool,508,Minimal Packaging,Yes,No,5.0,Energy Star,2485.06,3.2,14796,80,95,100,30,33.33333333333333,90,75.08
+P0305,Recycled Polyester Jacket,PureFabric,Clothing,Recycled Polyester,609,Minimal Packaging,Yes,Yes,1.0,B Corp,2354.39,4.9,2743,70,95,100,100,6.666666666666667,85,79.42
+P0306,Reusable Makeup Pads,NatureCare,Beauty,Organic Cotton,41,Recycled Cardboard,Yes,No,2.0,B Corp,1596.89,4.7,4230,90,90,100,30,13.333333333333334,85,74.83
+P0307,Wooden Office Chair,WoodNest,Furniture,Wood,13217,Minimal Packaging,Yes,Yes,8.0,None,36768.31,3.0,11480,80,95,100,100,53.333333333333336,40,82.58
+P0308,Canvas Tote Bag,UrbanCarry,Bags,Canvas,386,Paper,Yes,Yes,1.0,B Corp,3462.57,3.2,4692,70,85,100,100,6.666666666666667,85,77.92
+P0309,Metal Study Lamp,UrbanWood,Furniture,Steel,13051,Recycled Cardboard,Yes,Yes,7.0,None,6609.25,4.2,11369,65,90,100,100,46.666666666666664,40,76.67
+P0310,Jute Shopping Bag,UrbanCarry,Bags,Jute,758,Minimal Packaging,Yes,No,3.0,USDA Organic,316.35,4.6,4970,90,95,100,30,20.0,95,77.25
+P0311,Almonds,GreenGrain,Grocery,Nuts,1857,Compostable,Yes,No,1.0,None,1461.62,3.9,13535,80,100,100,30,6.666666666666667,40,68.17
+P0312,MDF Coffee Table,GreenLiving,Furniture,MDF,20323,Minimal Packaging,Yes,Yes,10.0,OEKO-TEX,30619.24,4.7,13456,50,95,100,100,66.66666666666666,85,79.42
+P0313,Recycled Polyester Jacket,EarthStyle,Clothing,Recycled Polyester,147,Paper,Yes,Yes,7.0,Energy Star,4419.8,3.1,3163,70,85,100,100,46.666666666666664,90,82.42
+P0314,Bamboo Hair Brush,NatureCare,Beauty,Bamboo,36,Recycled Cardboard,Yes,Yes,2.0,None,2071.89,4.0,10415,95,90,100,100,13.333333333333334,40,82.33
+P0315,Wireless Earbuds,TechNest,Electronics,Plastic + Electronics,792,Recycled Cardboard,Yes,Yes,8.0,None,13916.94,3.7,13729,25,90,100,100,53.333333333333336,40,65.33
+P0316,Coffee Beans,FarmFresh,Grocery,Coffee Beans,156,Plastic,Yes,No,1.0,USDA Organic,987.7,4.4,4413,75,30,100,30,6.666666666666667,95,61.67
+P0317,Paper Gift Bag,EarthCarry,Bags,Paper,98,Cardboard,No,Yes,5.0,Fair Trade,1496.87,4.2,5009,75,75,30,100,33.33333333333333,90,67.08
+P0318,Dark Chocolate,GreenGrain,Grocery,Cocoa,1844,Cardboard,Yes,Yes,1.0,USDA Organic,1244.25,3.8,1681,75,75,100,100,6.666666666666667,95,78.92
+P0319,Recycled Polyester Jacket,EcoThreads,Clothing,Recycled Polyester,654,Minimal Packaging,Yes,Yes,6.0,None,505.42,5.0,10500,70,95,100,100,40.0,40,78.25
+P0320,MDF Coffee Table,UrbanWood,Furniture,MDF,21999,Minimal Packaging,No,No,7.0,None,30852.5,4.8,13201,50,95,30,30,46.666666666666664,40,48.42
+P0321,Hemp Backpack,GreenBag,Bags,Hemp,132,Minimal Packaging,Yes,Yes,4.0,FSC,4472.05,4.2,9377,95,95,100,100,26.666666666666668,95,89.92
+P0322,Metal Nail Care Set,NatureCare,Beauty,Stainless Steel,371,Paper,Yes,Yes,6.0,None,805.47,3.3,10779,80,85,100,100,40.0,40,79.75
+P0323,Ceramic Coffee Mug,HomePure,Kitchen,Ceramic,1004,Cardboard,No,No,5.0,OEKO-TEX,996.03,4.4,5504,75,75,30,30,33.33333333333333,85,56.08
+P0324,Smartwatch,Voltix,Electronics,Aluminum + Electronics,487,Recycled Cardboard,Yes,No,4.0,None,7562.06,4.7,7714,40,90,100,30,26.666666666666668,40,56.67
+P0325,Viscose Dress,PureFabric,Clothing,Viscose,715,Paper,Yes,Yes,1.0,Energy Star,2031.01,3.6,890,55,85,100,100,6.666666666666667,90,73.92
+P0326,Bamboo Cutting Board,GreenKitchen,Kitchen,Bamboo,741,Recycled Cardboard,No,No,4.0,None,4324.73,3.4,1329,95,90,30,30,26.666666666666668,40,59.17
+P0327,Wooden Soap Dish,EcoLife,Personal Care,Wood,340,Minimal Packaging,Yes,Yes,2.0,OEKO-TEX,386.1,4.5,8026,80,95,100,100,13.333333333333334,85,83.08
+P0328,LED Desk Lamp,Electra,Electronics,Aluminum + Electronics,918,Recycled Cardboard,Yes,No,5.0,None,13483.43,4.5,235,40,90,100,30,33.33333333333333,40,57.33
+P0329,Wooden Side Table,EcoHome,Furniture,Wood,1087,Minimal Packaging,Yes,No,7.0,GOTS,14428.64,3.3,6289,80,95,100,30,46.666666666666664,95,76.92
+P0330,Brown Rice,NatureBasket,Grocery,Rice,1787,Paper,Yes,Yes,2.0,USDA Organic,538.86,4.8,2197,80,85,100,100,13.333333333333334,95,82.58
+P0331,Rattan Chair,UrbanWood,Furniture,Rattan,6674,Paper,No,No,10.0,None,9747.53,5.0,3465,85,85,30,30,66.66666666666666,40,59.42
+P0332,Viscose Dress,PureFabric,Clothing,Viscose,253,Paper,Yes,No,1.0,None,3272.54,4.5,10214,55,85,100,30,6.666666666666667,40,58.42
+P0333,Viscose Dress,GreenWear,Clothing,Viscose,757,Paper,Yes,Yes,6.0,None,2331.71,3.2,4145,55,85,100,100,40.0,40,72.25
+P0334,Reusable Safety Razor,EcoLife,Personal Care,Metal,665,Cardboard,Yes,No,6.0,None,1267.23,4.4,6867,60,75,100,30,40.0,40,61.75
+P0335,Phone Stand,Electra,Electronics,Aluminum,271,Recycled Cardboard,Yes,Yes,3.0,OEKO-TEX,19514.59,4.7,3309,65,90,100,100,20.0,85,78.5
+P0336,Metal Study Lamp,UrbanWood,Furniture,Steel,5755,Cardboard,Yes,No,15.0,B Corp,13892.54,3.0,11009,65,75,100,30,100.0,85,73.75
+P0337,Bluetooth Speaker,Electra,Electronics,Plastic + Electronics,1041,Cardboard,No,No,2.0,Energy Star,2800.87,3.5,3792,25,75,30,30,13.333333333333334,90,39.58
+P0338,Bamboo Bath Towel,NatureTouch,Personal Care,Bamboo Fiber,495,Paper,Yes,Yes,1.0,Energy Star,757.82,4.4,6984,90,85,100,100,6.666666666666667,90,84.42
+P0339,Bluetooth Speaker,NovaTech,Electronics,Plastic + Electronics,49,Cardboard,Yes,Yes,4.0,B Corp,23889.7,3.5,12015,25,75,100,100,26.666666666666668,85,64.92
+P0340,Wireless Mouse,Voltix,Electronics,Plastic + Electronics,404,Cardboard,Yes,No,4.0,Energy Star,17339.59,4.0,6914,25,75,100,30,26.666666666666668,90,54.92
+P0341,Glass Storage Jar,GreenKitchen,Kitchen,Glass,1465,Recycled Cardboard,Yes,No,2.0,None,4564.01,4.0,9326,80,90,100,30,13.333333333333334,40,67.33
+P0342,Reusable Safety Razor,EarthEssentials,Personal Care,Metal,408,Paper,Yes,No,7.0,OEKO-TEX,1789.02,4.0,8002,60,85,100,30,46.666666666666664,85,68.42
+P0343,Mechanical Keyboard,SmartCore,Electronics,Plastic + Electronics,124,Cardboard,Yes,Yes,7.0,Energy Star,13262.0,4.5,11863,25,75,100,100,46.666666666666664,90,67.42
+P0344,Metal Nail Care Set,EcoBeauty,Beauty,Stainless Steel,287,Paper,Yes,Yes,6.0,OEKO-TEX,1245.27,4.3,10513,80,85,100,100,40.0,85,84.25
+P0345,Recycled Polyester Backpack,NatureTote,Bags,Recycled Polyester,1335,Recycled Cardboard,Yes,No,5.0,Energy Star,5139.85,4.7,1231,70,90,100,30,33.33333333333333,90,71.33
+P0346,Wooden Soap Dish,EcoLife,Personal Care,Wood,358,Paper,Yes,Yes,6.0,None,1644.18,3.2,7282,80,85,100,100,40.0,40,79.75
+P0347,Stainless Steel Razor,GreenCare,Personal Care,Stainless Steel,477,Recycled Cardboard,Yes,Yes,6.0,None,841.67,3.1,9001,80,90,100,100,40.0,40,80.5
+P0348,Cotton T-Shirt,PureFabric,Clothing,Cotton,713,Plastic,Yes,Yes,2.0,GOTS,2388.8,3.7,13526,70,30,100,100,13.333333333333334,95,71.33
+P0349,Denim Jeans,UrbanLeaf,Clothing,Denim,419,Plastic,No,Yes,6.0,GOTS,3635.38,3.2,12445,65,30,30,100,40.0,95,58.5
+P0350,Bamboo Hair Brush,HerbalNest,Beauty,Bamboo,201,Minimal Packaging,No,Yes,5.0,FSC,336.3,4.8,8072,95,95,30,100,33.33333333333333,95,76.58
+P0351,Steel Lunch Box,HomePure,Kitchen,Stainless Steel,560,Paper,Yes,Yes,10.0,None,2338.53,4.6,11748,80,85,100,100,66.66666666666666,40,82.42
+P0352,Wooden Office Chair,GreenLiving,Furniture,Wood,2023,Minimal Packaging,No,Yes,10.0,None,23982.33,4.0,8177,80,95,30,100,66.66666666666666,40,69.92
+P0353,Recycled Polyester Jacket,GreenWear,Clothing,Recycled Polyester,646,Paper,No,Yes,5.0,Fair Trade,4567.87,4.4,2850,70,85,30,100,33.33333333333333,90,67.08
+P0354,Glass Storage Jar,TerraHome,Kitchen,Glass,1386,Recycled Cardboard,Yes,Yes,4.0,None,3083.07,4.4,4072,80,90,100,100,26.666666666666668,40,79.17
+P0355,Dark Chocolate,FarmFresh,Grocery,Cocoa,702,Cardboard,No,Yes,2.0,USDA Organic,1134.22,3.6,11498,75,75,30,100,13.333333333333334,95,65.58
+P0356,Wooden Side Table,EcoHome,Furniture,Wood,7082,Cardboard,Yes,Yes,8.0,B Corp,6173.2,4.4,2918,80,75,100,100,53.333333333333336,85,84.08
+P0357,Wooden Office Chair,UrbanWood,Furniture,Wood,18924,Paper,Yes,No,15.0,None,30165.88,4.7,4689,80,85,100,30,100.0,40,75.25
+P0358,Jute Shopping Bag,NatureTote,Bags,Jute,298,Paper,Yes,Yes,1.0,None,4550.07,3.3,4700,90,85,100,100,6.666666666666667,40,79.42
+P0359,Brown Rice,NatureBasket,Grocery,Rice,1514,Plastic,Yes,Yes,1.0,USDA Organic,197.6,4.7,12120,80,30,100,100,6.666666666666667,95,73.67
+P0360,Natural Soap Bar,GlowLeaf,Beauty,Plant-based,141,Cardboard,No,No,3.0,GOTS,192.69,3.8,6830,90,75,30,30,20.0,95,60.25
+P0361,Wooden Side Table,WoodNest,Furniture,Wood,924,Minimal Packaging,Yes,Yes,10.0,Fair Trade,36546.97,4.4,10615,80,95,100,100,66.66666666666666,90,88.92
+P0362,Recycled Wood Cabinet,HomeCraft,Furniture,Reclaimed Wood,24697,Minimal Packaging,Yes,No,7.0,None,7918.61,4.4,3068,90,95,100,30,46.666666666666664,40,74.42
+P0363,Bamboo Spoon Set,HomePure,Kitchen,Bamboo,812,Paper,Yes,Yes,2.0,None,4244.47,3.0,7645,95,85,100,100,13.333333333333334,40,81.58
+P0364,Stainless Steel Water Bottle,GreenKitchen,Kitchen,Stainless Steel,700,Paper,Yes,No,5.0,Energy Star,1574.66,4.6,9018,80,85,100,30,33.33333333333333,90,73.58
+P0365,Wooden Office Chair,UrbanWood,Furniture,Wood,17716,Cardboard,No,Yes,12.0,None,22179.13,3.8,5729,80,75,30,100,80.0,40,68.25
+P0366,Reusable Makeup Pads,HerbalNest,Beauty,Organic Cotton,189,Recycled Cardboard,Yes,No,5.0,GOTS,2490.85,4.6,10643,90,90,100,30,33.33333333333333,95,77.83
+P0367,Cotton T-Shirt,EcoThreads,Clothing,Cotton,536,Paper,No,Yes,5.0,None,390.41,4.8,6253,70,85,30,100,33.33333333333333,40,62.08
+P0368,Mechanical Keyboard,Voltix,Electronics,Plastic + Electronics,1136,Plastic,Yes,No,8.0,Energy Star,13002.43,4.0,7980,25,30,100,30,53.333333333333336,90,50.83
+P0369,Hemp Hoodie,EarthStyle,Clothing,Hemp,408,Minimal Packaging,Yes,Yes,7.0,GOTS,234.19,3.1,10987,95,95,100,100,46.666666666666664,95,91.92
+P0370,Refillable Perfume Bottle,PureGlow,Beauty,Glass,125,Recycled Cardboard,No,No,6.0,OEKO-TEX,1643.68,4.9,12242,80,90,30,30,40.0,85,60.5
+P0371,Stainless Steel Water Bottle,TerraHome,Kitchen,Stainless Steel,719,Cardboard,Yes,Yes,10.0,None,444.17,4.6,14930,80,75,100,100,66.66666666666666,40,80.92
+P0372,Dark Chocolate,GreenGrain,Grocery,Cocoa,1023,Plastic,Yes,Yes,1.5,USDA Organic,824.51,4.3,10136,75,30,100,100,10.0,95,72.5
+P0373,Portable SSD,NovaTech,Electronics,Aluminum + Electronics,178,Recycled Cardboard,No,Yes,8.0,Energy Star,15281.18,3.6,7175,40,90,30,100,53.333333333333336,90,60.83
+P0374,Nylon Travel Bag,EarthCarry,Bags,Nylon,1050,Plastic,Yes,Yes,4.0,Fair Trade,5125.91,3.6,10393,40,30,100,100,26.666666666666668,90,63.17
+P0375,Ceramic Coffee Mug,CookEase,Kitchen,Ceramic,62,Recycled Cardboard,No,Yes,1.0,None,3022.61,4.1,1399,75,90,30,100,6.666666666666667,40,61.67
+P0376,Organic Oats,FarmFresh,Grocery,Oats,533,Cardboard,No,No,1.0,None,369.14,4.7,3188,85,75,30,30,6.666666666666667,40,51.92
+P0377,LED Desk Lamp,Electra,Electronics,Aluminum + Electronics,141,Recycled Cardboard,Yes,Yes,7.0,None,2724.6,4.5,7987,40,90,100,100,46.666666666666664,40,69.17
+P0378,Bamboo Storage Rack,EcoHome,Furniture,Bamboo,22497,Minimal Packaging,Yes,Yes,5.0,USDA Organic,13392.65,3.9,10103,95,95,100,100,33.33333333333333,95,90.58
+P0379,Pasta,PureHarvest,Grocery,Wheat,1258,Cardboard,Yes,Yes,1.5,None,503.16,4.6,11673,85,75,100,100,10.0,40,76.75
+P0380,Cotton Grocery Bag,EcoPack,Bags,Cotton,355,Plastic,No,No,4.0,None,4692.65,4.0,1788,70,30,30,30,26.666666666666668,40,42.67
+P0381,Glass Water Bottle,HomePure,Kitchen,Glass,614,Cardboard,No,Yes,7.0,USDA Organic,473.67,3.2,310,80,75,30,100,46.666666666666664,95,70.42
+P0382,Viscose Dress,PureFabric,Clothing,Viscose,494,Plastic,Yes,Yes,3.0,None,4992.9,3.9,12705,55,30,100,100,20.0,40,62.0
+P0383,Cast Iron Pan,TerraHome,Kitchen,Cast Iron,497,Minimal Packaging,Yes,Yes,1.0,None,2559.62,4.3,13898,80,95,100,100,6.666666666666667,40,77.92
+P0384,Bamboo Spoon Set,GreenKitchen,Kitchen,Bamboo,953,Paper,Yes,No,7.0,Energy Star,815.38,4.5,5883,95,85,100,30,46.666666666666664,90,79.42
+P0385,Denim Jeans,UrbanLeaf,Clothing,Denim,317,Cardboard,Yes,Yes,6.0,None,4556.09,3.7,7700,65,75,100,100,40.0,40,73.75
+P0386,Bamboo Toothbrush,PureCare,Personal Care,Bamboo,684,Recycled Cardboard,Yes,No,6.0,Fair Trade,1678.65,3.5,8923,95,90,100,30,40.0,90,79.5
+P0387,Steel Lunch Box,TerraHome,Kitchen,Stainless Steel,788,Paper,Yes,No,5.0,None,4865.1,3.4,6654,80,85,100,30,33.33333333333333,40,68.58
+P0388,Bamboo Storage Rack,GreenLiving,Furniture,Bamboo,16297,Minimal Packaging,Yes,No,10.0,None,4005.44,4.3,3470,95,95,100,30,66.66666666666666,40,77.92
+P0389,Bamboo Cutting Board,GreenKitchen,Kitchen,Bamboo,781,Minimal Packaging,Yes,Yes,2.0,FSC,1717.1,3.2,11067,95,95,100,100,13.333333333333334,95,88.58
+P0390,Reusable Menstrual Cup,EcoLife,Personal Care,Medical Silicone,624,Cardboard,Yes,Yes,2.0,None,1171.56,3.3,10319,50,75,100,100,13.333333333333334,40,66.58
+P0391,Viscose Dress,EarthStyle,Clothing,Viscose,137,Paper,Yes,Yes,4.0,None,2904.3,3.0,11794,55,85,100,100,26.666666666666668,40,70.92
+P0392,Coffee Beans,PureHarvest,Grocery,Coffee Beans,1019,Compostable,No,No,1.0,None,644.61,3.3,9551,75,100,30,30,6.666666666666667,40,52.67
+P0393,Glass Water Bottle,DailyKitchen,Kitchen,Glass,581,Cardboard,No,Yes,4.0,None,436.33,3.8,2171,80,75,30,100,26.666666666666668,40,62.92
+P0394,Wireless Earbuds,TechNest,Electronics,Plastic + Electronics,1100,Plastic,Yes,No,6.0,None,12052.97,4.2,644,25,30,100,30,40.0,40,44.5
+P0395,Bluetooth Speaker,SmartCore,Electronics,Plastic + Electronics,296,Plastic,Yes,Yes,8.0,Energy Star,10956.97,3.8,14338,25,30,100,100,53.333333333333336,90,61.33
+P0396,Recycled Polyester Jacket,UrbanLeaf,Clothing,Recycled Polyester,314,Paper,No,Yes,5.0,Fair Trade,4556.72,4.7,9444,70,85,30,100,33.33333333333333,90,67.08
+P0397,Mechanical Keyboard,TechNest,Electronics,Plastic + Electronics,551,Recycled Cardboard,No,No,2.0,None,21955.13,3.8,3101,25,90,30,30,13.333333333333334,40,36.83
+P0398,Organic Cotton T-Shirt,PureFabric,Clothing,Organic Cotton,615,Paper,Yes,Yes,2.0,OEKO-TEX,1715.33,3.7,2540,90,85,100,100,13.333333333333334,85,84.58
+P0399,Recycled Cotton Sling Bag,EcoPack,Bags,Recycled Cotton,615,Minimal Packaging,Yes,Yes,3.0,B Corp,2504.23,3.4,9050,90,95,100,100,20.0,85,86.75
+P0400,Reusable Safety Razor,NatureTouch,Personal Care,Metal,592,Recycled Cardboard,Yes,No,5.0,None,1427.66,4.5,14013,60,90,100,30,33.33333333333333,40,63.33
+P0401,Smartwatch,SmartCore,Electronics,Aluminum + Electronics,361,Cardboard,Yes,Yes,4.0,Energy Star,15465.43,4.4,857,40,75,100,100,26.666666666666668,90,69.92
+P0402,Steel Lunch Box,HomePure,Kitchen,Stainless Steel,226,Cardboard,Yes,Yes,1.0,None,1185.67,3.2,623,80,75,100,100,6.666666666666667,40,74.92
+P0403,Nylon Travel Bag,NatureTote,Bags,Nylon,1147,Cardboard,Yes,Yes,10.0,Fair Trade,3912.69,3.9,3309,40,75,100,100,66.66666666666666,90,73.92
+P0404,Organic Oats,NatureBasket,Grocery,Oats,1705,Plastic,Yes,No,2.0,None,101.29,3.5,9,85,30,100,30,13.333333333333334,40,59.83
+P0405,Glass Storage Jar,CookEase,Kitchen,Glass,858,Paper,Yes,Yes,2.0,None,3709.94,3.1,1482,80,85,100,100,13.333333333333334,40,77.08
+P0406,Organic Honey,DailyHarvest,Grocery,Honey,812,Cardboard,No,Yes,2.0,B Corp,708.4,3.8,81,80,75,30,100,13.333333333333334,85,66.08
+P0407,Brown Rice,GreenGrain,Grocery,Rice,1136,Paper,Yes,Yes,1.0,B Corp,1213.27,4.9,14359,80,85,100,100,6.666666666666667,85,80.92
+P0408,Dried Mango,GreenGrain,Grocery,Fruit,1253,Compostable,No,No,1.5,USDA Organic,1348.96,4.7,7901,85,100,30,30,10.0,95,61.5
+P0409,USB-C Charging Cable,NovaTech,Electronics,PVC + Copper,813,Plastic,No,Yes,7.0,None,8097.55,4.9,8467,25,30,30,100,46.666666666666664,40,41.67
+P0410,Hemp Hoodie,EarthStyle,Clothing,Hemp,374,Paper,Yes,No,3.0,None,4669.7,4.0,5797,95,85,100,30,20.0,40,71.75
+P0411,Wooden Comb,HerbalNest,Beauty,Wood,113,Minimal Packaging,Yes,No,4.0,OEKO-TEX,647.36,3.5,4353,80,95,100,30,26.666666666666668,85,73.92
+P0412,Reusable Makeup Pads,NatureCare,Beauty,Organic Cotton,447,Paper,No,Yes,7.0,None,2305.86,4.4,10874,90,85,30,100,46.666666666666664,40,69.42
+P0413,Refillable Hand Wash Bottle,PureCare,Personal Care,Glass,574,Cardboard,No,Yes,3.0,None,1970.6,4.8,14238,80,75,30,100,20.0,40,62.25
+P0414,Dried Mango,PureHarvest,Grocery,Fruit,1665,Plastic,Yes,Yes,2.0,None,811.32,3.8,8864,85,30,100,100,13.333333333333334,40,70.33
+P0415,Recycled Polyester Jacket,EcoThreads,Clothing,Recycled Polyester,483,Minimal Packaging,No,Yes,1.0,OEKO-TEX,2407.34,4.4,198,70,95,30,100,6.666666666666667,85,65.42
+P0416,Refillable Perfume Bottle,EcoBeauty,Beauty,Glass,71,Paper,Yes,No,2.0,None,652.88,3.9,10049,80,85,100,30,13.333333333333334,40,66.58
+P0417,Bamboo Storage Rack,EcoHome,Furniture,Bamboo,16843,Recycled Cardboard,Yes,No,8.0,FSC,16622.11,3.9,9366,95,90,100,30,53.333333333333336,95,81.33
+P0418,Glass Water Bottle,GreenKitchen,Kitchen,Glass,244,Recycled Cardboard,Yes,Yes,4.0,Energy Star,1059.71,4.6,12105,80,90,100,100,26.666666666666668,90,84.17
+P0419,Silicone Food Cover,HomePure,Kitchen,Silicone,401,Paper,Yes,No,10.0,FSC,2715.51,3.6,7977,55,85,100,30,66.66666666666666,95,69.92
+P0420,Almonds,DailyHarvest,Grocery,Nuts,1858,Compostable,Yes,Yes,1.0,None,1229.04,4.0,10324,80,100,100,100,6.666666666666667,40,78.67
+P0421,Power Bank,Voltix,Electronics,Aluminum + Lithium Battery,562,Recycled Cardboard,Yes,Yes,8.0,None,788.93,3.2,14215,35,90,100,100,53.333333333333336,40,68.33
+P0422,Wooden Comb,EcoBeauty,Beauty,Wood,352,Minimal Packaging,Yes,No,3.0,None,1708.13,4.0,12072,80,95,100,30,20.0,40,68.75
+P0423,Stainless Steel Razor,GreenCare,Personal Care,Stainless Steel,648,Recycled Cardboard,Yes,No,7.0,None,1625.97,3.7,10347,80,90,100,30,46.666666666666664,40,70.67
+P0424,Canvas Tote Bag,EarthCarry,Bags,Canvas,411,Cardboard,Yes,Yes,3.0,OEKO-TEX,3710.23,3.8,14548,70,75,100,100,20.0,85,77.75
+P0425,Wooden Soap Dish,EarthEssentials,Personal Care,Wood,553,Paper,Yes,Yes,1.0,None,514.18,3.5,12192,80,85,100,100,6.666666666666667,40,76.42
+P0426,Smartwatch,TechNest,Electronics,Aluminum + Electronics,843,Cardboard,Yes,No,5.0,None,950.21,3.8,12538,40,75,100,30,33.33333333333333,40,55.08
+P0427,Bluetooth Speaker,Voltix,Electronics,Plastic + Electronics,348,Cardboard,Yes,No,4.0,None,18517.55,3.9,2076,25,75,100,30,26.666666666666668,40,49.92
+P0428,Bamboo Spoon Set,GreenKitchen,Kitchen,Bamboo,98,Paper,Yes,No,3.0,Energy Star,2388.25,4.7,4468,95,85,100,30,20.0,90,76.75
+P0429,Reusable Safety Razor,EarthEssentials,Personal Care,Metal,201,Recycled Cardboard,Yes,Yes,6.0,USDA Organic,902.86,4.3,8750,60,90,100,100,40.0,95,80.0
+P0430,Wheat Flour,GreenGrain,Grocery,Wheat,1205,Paper,No,Yes,1.0,None,274.79,3.0,8579,85,85,30,100,6.666666666666667,40,63.92
+P0431,Cast Iron Pan,CookEase,Kitchen,Cast Iron,1000,Cardboard,Yes,Yes,10.0,None,143.75,3.9,4804,80,75,100,100,66.66666666666666,40,80.92
+P0432,Bamboo Hair Brush,EcoBeauty,Beauty,Bamboo,211,Paper,Yes,Yes,4.0,None,1809.15,4.3,13577,95,85,100,100,26.666666666666668,40,82.92
+P0433,Leather Handbag,EcoPack,Bags,Leather,242,Cardboard,Yes,Yes,10.0,B Corp,4882.93,4.4,4669,45,75,100,100,66.66666666666666,85,74.92
+P0434,Dark Chocolate,PureHarvest,Grocery,Cocoa,1847,Paper,Yes,Yes,1.5,USDA Organic,443.59,4.2,3081,75,85,100,100,10.0,95,80.75
+P0435,Bamboo Study Table,EcoHome,Furniture,Bamboo,2126,Minimal Packaging,Yes,No,8.0,None,28891.64,4.5,3819,95,95,100,30,53.333333333333336,40,76.58
+P0436,LED Desk Lamp,NovaTech,Electronics,Aluminum + Electronics,1040,Cardboard,Yes,Yes,8.0,None,9472.51,4.4,524,40,75,100,100,53.333333333333336,40,67.58
+P0437,Wooden Office Chair,EcoHome,Furniture,Wood,2336,Paper,No,Yes,10.0,None,35931.26,3.5,6256,80,85,30,100,66.66666666666666,40,68.42
+P0438,Cotton T-Shirt,EarthStyle,Clothing,Cotton,474,Cardboard,Yes,No,2.0,None,3899.78,4.0,3420,70,75,100,30,13.333333333333334,40,62.08
+P0439,Silicone Travel Bottle,NatureTouch,Personal Care,Silicone,350,Cardboard,Yes,Yes,5.0,None,550.43,4.3,3260,55,75,100,100,33.33333333333333,40,70.08
+P0440,Bamboo Study Table,EcoHome,Furniture,Bamboo,4200,Paper,Yes,Yes,7.0,Fair Trade,23802.18,3.8,3987,95,85,100,100,46.666666666666664,90,89.92
+P0441,Organic Cotton T-Shirt,PureFabric,Clothing,Organic Cotton,882,Minimal Packaging,Yes,Yes,3.0,Fair Trade,1392.87,4.0,11243,90,95,100,100,20.0,90,87.25
+P0442,Bamboo Study Table,WoodNest,Furniture,Bamboo,12149,Minimal Packaging,Yes,Yes,5.0,None,10073.31,5.0,12924,95,95,100,100,33.33333333333333,40,85.08
+P0443,Rattan Chair,EcoHome,Furniture,Rattan,1199,Minimal Packaging,Yes,No,8.0,USDA Organic,19925.78,3.9,4833,85,95,100,30,53.333333333333336,95,79.08
+P0444,Organic Cotton Towel,EarthEssentials,Personal Care,Organic Cotton,211,Minimal Packaging,Yes,No,3.0,Energy Star,1220.44,4.7,2632,90,95,100,30,20.0,90,76.75
+P0445,Phone Stand,TechNest,Electronics,Aluminum,950,Recycled Cardboard,No,Yes,5.0,None,16058.24,3.8,3044,65,90,30,100,33.33333333333333,40,61.33
+P0446,Viscose Dress,EcoThreads,Clothing,Viscose,874,Plastic,Yes,No,6.0,B Corp,4130.44,3.4,11198,55,30,100,30,40.0,85,58.0
+P0447,Natural Loofah,EcoLife,Personal Care,Plant Fiber,647,Compostable,Yes,Yes,1.0,None,1337.25,3.1,2131,90,100,100,100,6.666666666666667,40,81.67
+P0448,Stainless Steel Water Bottle,GreenKitchen,Kitchen,Stainless Steel,259,Recycled Cardboard,Yes,Yes,7.0,Energy Star,3322.81,4.1,11495,80,90,100,100,46.666666666666664,90,86.17
+P0449,Organic Green Tea,FarmFresh,Grocery,Tea Leaves,552,Plastic,Yes,Yes,1.0,USDA Organic,1395.19,4.7,7673,80,30,100,100,6.666666666666667,95,73.67
+P0450,Polyester Sports T-Shirt,PureFabric,Clothing,Polyester,841,Cardboard,No,No,1.0,Fair Trade,1474.92,3.1,1158,40,75,30,30,6.666666666666667,90,43.42
+P0451,Coffee Beans,PureHarvest,Grocery,Coffee Beans,1163,Paper,Yes,Yes,1.5,None,811.98,3.5,10250,75,85,100,100,10.0,40,75.25
+P0452,Bamboo Spoon Set,DailyKitchen,Kitchen,Bamboo,890,Minimal Packaging,Yes,Yes,3.0,OEKO-TEX,3541.5,3.9,1710,95,95,100,100,20.0,85,88.25
+P0453,Bamboo Cutting Board,DailyKitchen,Kitchen,Bamboo,862,Minimal Packaging,Yes,Yes,5.0,FSC,1825.39,3.6,5324,95,95,100,100,33.33333333333333,95,90.58
+P0454,Metal Study Lamp,GreenLiving,Furniture,Steel,24285,Recycled Cardboard,Yes,Yes,7.0,None,22458.31,4.5,5903,65,90,100,100,46.666666666666664,40,76.67
+P0455,Reusable Menstrual Cup,GreenCare,Personal Care,Medical Silicone,20,Recycled Cardboard,Yes,Yes,1.0,None,1986.22,3.6,4925,50,90,100,100,6.666666666666667,40,68.17
+P0456,Reusable Makeup Pads,HerbalNest,Beauty,Organic Cotton,31,Minimal Packaging,No,No,5.0,GOTS,2319.73,3.3,623,90,95,30,30,33.33333333333333,95,64.58
+P0457,Wooden Soap Dish,EcoLife,Personal Care,Wood,161,Paper,Yes,Yes,2.0,None,641.59,4.1,9328,80,85,100,100,13.333333333333334,40,77.08
+P0458,Glass Face Serum Bottle,HerbalNest,Beauty,Glass,425,Paper,Yes,No,6.0,OEKO-TEX,2062.23,3.2,10527,80,85,100,30,40.0,85,73.75
+P0459,Organic Green Tea,DailyHarvest,Grocery,Tea Leaves,881,Paper,No,No,1.0,None,1233.86,3.8,14223,80,85,30,30,6.666666666666667,40,51.92
+P0460,Smartwatch,Electra,Electronics,Aluminum + Electronics,53,Recycled Cardboard,Yes,Yes,4.0,None,3993.63,4.0,3622,40,90,100,100,26.666666666666668,40,67.17
+P0461,Stainless Steel Water Bottle,TerraHome,Kitchen,Stainless Steel,952,Paper,Yes,Yes,4.0,None,2031.18,3.3,1357,80,85,100,100,26.666666666666668,40,78.42
+P0462,Refillable Hand Wash Bottle,PureCare,Personal Care,Glass,581,Paper,Yes,Yes,4.0,OEKO-TEX,311.93,3.3,9168,80,85,100,100,26.666666666666668,85,82.92
+P0463,Lip Balm Tube,GlowLeaf,Beauty,Plastic,353,Recycled Cardboard,Yes,Yes,6.0,None,665.4,3.5,7051,30,90,100,100,40.0,40,65.5
+P0464,Recycled Wood Cabinet,WoodNest,Furniture,Reclaimed Wood,4187,Minimal Packaging,Yes,Yes,7.0,None,24160.21,3.0,4999,90,95,100,100,46.666666666666664,40,84.92
+P0465,Cast Iron Pan,DailyKitchen,Kitchen,Cast Iron,945,Cardboard,Yes,No,2.0,None,1930.72,4.5,13976,80,75,100,30,13.333333333333334,40,65.08
+P0466,Bluetooth Speaker,NovaTech,Electronics,Plastic + Electronics,527,Plastic,No,No,8.0,None,8777.8,4.6,5004,25,30,30,30,53.333333333333336,40,31.83
+P0467,Reusable Menstrual Cup,PureCare,Personal Care,Medical Silicone,359,Cardboard,No,Yes,5.0,None,560.8,4.0,11964,50,75,30,100,33.33333333333333,40,54.58
+P0468,Stainless Steel Water Bottle,TerraHome,Kitchen,Stainless Steel,1233,Paper,Yes,Yes,1.0,None,3966.02,4.2,874,80,85,100,100,6.666666666666667,40,76.42
+P0469,Bamboo Toothbrush,PureCare,Personal Care,Bamboo,417,Minimal Packaging,Yes,No,6.0,FSC,268.31,3.6,14478,95,95,100,30,40.0,95,80.75
+P0470,Leather Handbag,UrbanCarry,Bags,Leather,1121,Plastic,Yes,Yes,10.0,None,709.52,3.4,7508,45,30,100,100,66.66666666666666,40,63.67
+P0471,Organic Cotton T-Shirt,EarthStyle,Clothing,Organic Cotton,622,Recycled Cardboard,Yes,Yes,2.0,None,3483.69,3.7,4958,90,90,100,100,13.333333333333334,40,80.83
+P0472,Natural Soap Bar,HerbalNest,Beauty,Plant-based,435,Paper,Yes,No,7.0,B Corp,2363.81,4.9,3700,90,85,100,30,46.666666666666664,85,77.42
+P0473,Cast Iron Pan,TerraHome,Kitchen,Cast Iron,1385,Cardboard,Yes,Yes,7.0,FSC,3164.07,3.5,3943,80,75,100,100,46.666666666666664,95,84.42
+P0474,Steel Lunch Box,CookEase,Kitchen,Stainless Steel,1279,Recycled Cardboard,Yes,Yes,7.0,None,2751.63,4.6,14137,80,90,100,100,46.666666666666664,40,81.17
+P0475,Ceramic Coffee Mug,DailyKitchen,Kitchen,Ceramic,316,Paper,No,No,2.0,GOTS,2866.74,3.3,1116,75,85,30,30,13.333333333333334,95,56.58
+P0476,LED Desk Lamp,Voltix,Electronics,Aluminum + Electronics,328,Cardboard,No,No,5.0,B Corp,7791.7,4.5,13467,40,75,30,30,33.33333333333333,85,45.58
+P0477,Brown Rice,PureHarvest,Grocery,Rice,318,Paper,Yes,No,2.0,USDA Organic,927.13,4.2,9775,80,85,100,30,13.333333333333334,95,72.08
+P0478,Reusable Makeup Pads,PureGlow,Beauty,Organic Cotton,203,Paper,Yes,Yes,5.0,Energy Star,1213.41,4.3,3019,90,85,100,100,33.33333333333333,90,87.08
+P0479,Bamboo Handle Bag,UrbanCarry,Bags,Bamboo + Cotton,361,Paper,Yes,Yes,10.0,B Corp,5566.52,4.9,3651,85,85,100,100,66.66666666666666,85,88.42
+P0480,Reusable Makeup Pads,PureGlow,Beauty,Organic Cotton,110,Recycled Cardboard,No,Yes,3.0,Energy Star,2226.96,3.9,12722,90,90,30,100,20.0,90,72.5
+P0481,Viscose Dress,UrbanLeaf,Clothing,Viscose,817,Cardboard,Yes,No,5.0,None,2720.11,4.8,12897,55,75,100,30,33.33333333333333,40,59.58
+P0482,Recycled Polyester Jacket,GreenWear,Clothing,Recycled Polyester,542,Paper,No,Yes,2.0,GOTS,2097.93,4.5,9142,70,85,30,100,13.333333333333334,95,65.58
+P0483,Paper Gift Bag,EarthCarry,Bags,Paper,468,Cardboard,Yes,No,10.0,Fair Trade,2874.81,3.8,10050,75,75,100,30,66.66666666666666,90,73.92
+P0484,Recycled Polyester Jacket,EarthStyle,Clothing,Recycled Polyester,554,Minimal Packaging,Yes,No,1.0,None,3009.15,4.8,8957,70,95,100,30,6.666666666666667,40,64.42
+P0485,Steel Lunch Box,TerraHome,Kitchen,Stainless Steel,702,Recycled Cardboard,Yes,Yes,7.0,USDA Organic,4423.49,3.2,5314,80,90,100,100,46.666666666666664,95,86.67
+P0486,Glass Storage Jar,HomePure,Kitchen,Glass,273,Recycled Cardboard,Yes,Yes,5.0,OEKO-TEX,3660.68,5.0,10033,80,90,100,100,33.33333333333333,85,84.33
+P0487,Steel Lunch Box,DailyKitchen,Kitchen,Stainless Steel,819,Cardboard,No,No,5.0,USDA Organic,4326.1,3.3,2374,80,75,30,30,33.33333333333333,95,58.58
+P0488,Stainless Steel Water Bottle,TerraHome,Kitchen,Stainless Steel,670,Recycled Cardboard,No,No,3.0,FSC,675.01,3.3,3328,80,90,30,30,20.0,95,59.5
+P0489,Viscose Dress,EcoThreads,Clothing,Viscose,92,Cardboard,Yes,Yes,7.0,None,4435.97,3.5,9652,55,75,100,100,46.666666666666664,40,71.42
+P0490,Reusable Menstrual Cup,GreenCare,Personal Care,Medical Silicone,472,Cardboard,Yes,Yes,5.0,None,1278.55,4.6,3406,50,75,100,100,33.33333333333333,40,68.58
+P0491,Linen Shirt,EarthStyle,Clothing,Linen,136,Minimal Packaging,Yes,Yes,1.0,OEKO-TEX,4221.47,3.6,1441,85,95,100,100,6.666666666666667,85,83.92
+P0492,Cotton T-Shirt,UrbanLeaf,Clothing,Cotton,262,Paper,Yes,Yes,6.0,GOTS,2945.96,4.1,7465,70,85,100,100,40.0,95,82.25
+P0493,Bamboo Study Table,WoodNest,Furniture,Bamboo,10307,Recycled Cardboard,Yes,Yes,5.0,Fair Trade,33888.08,3.1,7718,95,90,100,100,33.33333333333333,90,89.33
+P0494,Glass Storage Jar,CookEase,Kitchen,Glass,714,Recycled Cardboard,Yes,Yes,2.0,FSC,634.58,4.5,10310,80,90,100,100,13.333333333333334,95,83.33
+P0495,Power Bank,Electra,Electronics,Aluminum + Lithium Battery,618,Recycled Cardboard,Yes,Yes,6.0,GOTS,15693.13,4.9,10069,35,90,100,100,40.0,95,72.5
+P0496,Natural Loofah,GreenCare,Personal Care,Plant Fiber,524,Paper,No,Yes,3.0,B Corp,62.07,3.0,10252,90,85,30,100,20.0,85,71.25
+P0497,Smartwatch,Electra,Electronics,Aluminum + Electronics,879,Recycled Cardboard,Yes,Yes,8.0,Energy Star,578.04,3.4,4619,40,90,100,100,53.333333333333336,90,74.83
+P0498,Coffee Beans,FarmFresh,Grocery,Coffee Beans,714,Compostable,Yes,No,0.5,USDA Organic,543.97,4.4,10097,75,100,100,30,3.3333333333333335,95,71.83
+P0499,Linen Shirt,EarthStyle,Clothing,Linen,418,Recycled Cardboard,No,Yes,4.0,Fair Trade,3298.13,4.0,10281,85,90,30,100,26.666666666666668,90,71.67
+P0500,Natural Loofah,NatureTouch,Personal Care,Plant Fiber,493,Compostable,No,Yes,5.0,None,1465.43,3.6,8784,90,100,30,100,33.33333333333333,40,70.33
